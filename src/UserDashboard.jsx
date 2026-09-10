@@ -63,7 +63,8 @@ const UserDashboard = ({ hymns, onLogout }) => {
 
   if (page==="slide") return <HymnSlideViewer hymns={displayHymns} initialHymnId={viewHymnId} onBack={()=>setPage("hymns")} fontScale={fontScale} setFontScale={setFontScale}/>;
   if (page==="flows") return <FlowsPage hymns={displayHymns} flows={flows} setFlows={setFlows} onStartFlow={f=>{setActiveFlow(f);setPage("flowSlide");}} onBack={()=>setPage("home")}/>;
-  if (page==="flowSlide") return <FlowSlideViewer flow={activeFlow} hymns={displayHymns} onBack={()=>setPage("flows")} fontScale={fontScale} setFontScale={setFontScale}/>;
+  if (page==="flowSlide") return <FlowSlideViewer flow={activeFlow} hymns={displayHymns} onBack={()=>setPage("flows")} fontScale={fontScale} setFontScale={setFontScale}
+    onDeleteFlow={() => { setFlows(prev => prev.filter(f => f.id !== activeFlow.id)); setActiveFlow(null); setPage("flows"); }}/>;
 
   return (
     <div style={{minHeight:"100vh",background:"var(--bg)",display:"flex",flexDirection:"column"}}>

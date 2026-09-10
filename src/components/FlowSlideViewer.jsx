@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { BigBtn, ensureChords, FontSizeControl, makeSwipeHandlers, LEVELS } from "../lib/core.jsx";
 import HymnViewer from "./HymnViewer.jsx";
 
-const FlowSlideViewer = ({ flow, hymns, onBack, onEditName, fontScale = 1, setFontScale }) => {
+const FlowSlideViewer = ({ flow, hymns, onBack, onEditName, onDeleteFlow, fontScale = 1, setFontScale }) => {
   const hymnById = Object.fromEntries(hymns.map(h=>[h.id,h]));
   const flowHymns = flow.hymnIds.map(id=>hymnById[id]).filter(Boolean);
   const [current, setCurrent] = useState(0);
@@ -53,6 +53,12 @@ const FlowSlideViewer = ({ flow, hymns, onBack, onEditName, fontScale = 1, setFo
         <div style={{display:"flex",alignItems:"center",gap:10}}>
           {setFontScale && <FontSizeControl scale={fontScale} onChange={setFontScale}/>}
           <span style={{fontFamily:"'JetBrains Mono',monospace",fontSize:".72rem",padding:"4px 12px",borderRadius:20,background:"#c4922a22",border:"1px solid var(--gold)",color:"var(--gold2)"}}>{current+1}/{flowHymns.length}</span>
+          {onDeleteFlow && (
+            <button onClick={() => { if (confirm(`Delete the flow "${flow.name}"? This can't be undone.`)) onDeleteFlow(); }}
+              title="Delete this flow" style={{background:"#3d1414",border:"1px solid #a34040",color:"#f08080",fontSize:".9rem",width:32,height:32,borderRadius:8,cursor:"pointer",display:"flex",alignItems:"center",justifyContent:"center"}}>
+              🗑
+            </button>
+          )}
         </div>
       </div>
 
