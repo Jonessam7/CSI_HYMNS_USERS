@@ -158,23 +158,6 @@ const PALETTES = {
   minor:    ["D","Dm","G","Gm","A","Am","E","Em","B","Bm","C","Cm","F","Fm"],
   extended: ["D","D7","Dsus4","G","G7","A","A7","Am","E","E7","Em","B","B7","C","Cmaj7","F","Fm"],
 };
-const DEMO_HYMN = {
-  id: "demo1", number: 1, title: "Hymns of Praise", key: "D",
-  lines: [
-    [{syl:"ಭೂ",wordBreak:false},{syl:"ಲೋ",wordBreak:false},{syl:"ಕ",wordBreak:false},{syl:"ವೆ",wordBreak:false},{syl:"ಲ್ಲಾ",wordBreak:false},{syl:"ಕ",wordBreak:true},{syl:"ರ್ತ",wordBreak:false},{syl:"ನ",wordBreak:false},{syl:"ಗೆ",wordBreak:false}],
-    [{syl:"ಉ",wordBreak:false},{syl:"ತ್ಸಾ",wordBreak:false},{syl:"ಹ",wordBreak:false},{syl:"ಧ್ವ",wordBreak:false},{syl:"ನಿ",wordBreak:false},{syl:"ಎ",wordBreak:true},{syl:"ತ್ತ",wordBreak:false},{syl:"ಲಿ",wordBreak:false}],
-    [],
-    [{syl:"ಸಂ",wordBreak:false},{syl:"ತೋ",wordBreak:false},{syl:"ಷ",wordBreak:false},{syl:"ಹ",wordBreak:true},{syl:"ರ್ಷ",wordBreak:false},{syl:"ದೊ",wordBreak:false},{syl:"ಡ",wordBreak:false},{syl:"ನೆ",wordBreak:false}],
-    [{syl:"ಸ್ತೋ",wordBreak:false},{syl:"ತ್ರ",wordBreak:false},{syl:"ದಿ",wordBreak:false},{syl:"ಸೇ",wordBreak:true},{syl:"ವೆ",wordBreak:false},{syl:"ಮಾ",wordBreak:false},{syl:"ಡ",wordBreak:false},{syl:"ಲಿ",wordBreak:false}],
-  ],
-  chords: [
-    ["D","D","G","","D","A","","","D"],
-    ["","","","","","","",""],
-    [],
-    ["G","","","A","","","","D"],
-    ["","","","","","","",""],
-  ],
-};
 
 // ─────────────────────────────────────────────────────────────
 //  UTILITIES
@@ -353,11 +336,11 @@ const FontSizeControl = ({ scale, onChange, min = 0.7, max = 1.9, step = 0.1 }) 
   );
 };
 
-const LEVELS = ["Easy", "Intermediate", "Advance"];
+const LEVELS = ["Easy", "Intermediate", "Hard"];
 
 export {
   GLOBAL_CSS, injectStyles,
-  CHROMATIC, PALETTES, DEMO_HYMN,
+  CHROMATIC, PALETTES,
   uid, transposeChord, sortHymns, isDuplicate, ensureChords,
   loadStorage, saveStorage,
   Btn, BigBtn, Modal, SectionLabel, KeyFilterDropdown, FontSizeControl, makeSwipeHandlers, LEVELS,

@@ -1,6 +1,7 @@
 import { useState } from "react";
-import { BigBtn, Modal, KeyFilterDropdown } from "../lib/core.jsx";
-import KeySelectionModal from "./KeySelectionModal.jsx";
+import { BigBtn } from "../lib/core.jsx";
+import HymnPickerSheet from "./HymnPickerSheet.jsx";
+import { keyShort } from "../lib/keys.js";
 
 //  USER — FLOW EDITOR
 // ─────────────────────────────────────────────────────────────
@@ -11,21 +12,12 @@ const FlowEditor = ({ flow, hymns, onSave, onClose }) => {
   const [dragIdx, setDragIdx] = useState(null);
   const [overIdx, setOverIdx] = useState(null);
   const [showPicker, setShowPicker] = useState(false);
-  const [pendingGroup, setPendingGroup] = useState(null);
-  const [showKeyModal, setShowKeyModal] = useState(false);
-  const [pickerKeyFilter, setPickerKeyFilter] = useState("");
-  const [pickerSearch, setPickerSearch] = useState("");
+  const [swapIdx, setSwapIdx] = useState(null);       // index of the flow item whose key is being changed
 
   const hymnById = Object.fromEntries(hymns.map(h=>[h.id,h]));
   const hymnGroups = {};
   hymns.forEach(h => { if (!hymnGroups[h.number]) hymnGroups[h.number] = []; hymnGroups[h.number].push(h); });
-
-  const uniqueNumbers = Object.keys(hymnGroups).map(Number).sort((a,b)=>a-b).filter(num => {
-    const group = hymnGroups[num];
-    const matchKey = !pickerKeyFilter || group.some(h => (h.key||"D") === pickerKeyFilter);
-    const matchSearch = !pickerSearch || group[0].title.toLowerCase().includes(pickerSearch.toLowerCase()) || String(num).includes(pickerSearch);
-    return matchKey && matchSearch;
-  });
+  const groups = Object.values(hymnGroups).sort((a,b)=>a[0].number-b[0].number);
 
   const onDragStart = (i) => setDragIdx(i);
   const onDragOver = (e, i) => { e.preventDefault(); setOverIdx(i); };
@@ -47,28 +39,9 @@ const FlowEditor = ({ flow, hymns, onSave, onClose }) => {
     });
   };
 
-  const handlePickerSelect = (num) => {
-    const group = hymnGroups[num];
-    if (!group) return;
-    if (pickerKeyFilter) {
-      const matched = group.find(h => (h.key||"D") === pickerKeyFilter);
-      if (matched) {
-        if (!items.includes(matched.id)) setItems(it=>[...it, matched.id]);
-        setShowPicker(false); return;
-      }
-    }
-    if (group.length === 1) {
-      if (!items.includes(group[0].id)) setItems(it=>[...it, group[0].id]);
-      setShowPicker(false);
-    } else {
-      setPendingGroup({number:num, title:group[0].title, hymns:group});
-      setShowPicker(false); setShowKeyModal(true);
-    }
-  };
-
-  const handleKeySelected = (h) => {
-    if (!items.includes(h.id)) setItems(it=>[...it, h.id]);
-    setPendingGroup(null); setShowKeyModal(false);
+  const onPick = (h) => {
+    if (swapIdx !== null) { setItems(it => it.map((id, i) => i === swapIdx ? h.id : id)); return; }
+    if (!items.includes(h.id)) setItems(it => [...it, h.id]);
   };
 
   return (
@@ -116,7 +89,7 @@ const FlowEditor = ({ flow, hymns, onSave, onClose }) => {
                 <span style={{fontFamily:"'Cinzel',serif",fontSize:".65rem",color:"var(--gold)",background:"var(--surface2)",border:"1px solid var(--border2)",borderRadius:20,padding:"2px 10px",minWidth:38,textAlign:"center",flexShrink:0}}>#{h.number}</span>
                 <div style={{flex:1}}>
                   <div style={{fontSize:".92rem",color:"var(--cream)"}}>{h.title}</div>
-                  <div style={{fontFamily:"'JetBrains Mono',monospace",fontSize:".62rem",color:"var(--gold2)",marginTop:2}}>Key: {h.key||"D"}</div>
+                  <button className="rowbtn" style={{marginTop:5}} title="Change key" onClick={()=>setSwapIdx(i)}>Key {keyShort(h.key||"D")} ⇅</button>
                 </div>
                 <div style={{display:"flex",flexDirection:"column",gap:2}}>
                   <button onClick={()=>moveItem(i,-1)} disabled={i===0}
@@ -131,49 +104,10 @@ const FlowEditor = ({ flow, hymns, onSave, onClose }) => {
         </div>
       </div>
 
-      {showPicker && (
-        <div onClick={e=>e.target===e.currentTarget&&setShowPicker(false)}
-          style={{position:"fixed",inset:0,background:"#000a",display:"flex",alignItems:"flex-end",justifyContent:"center",zIndex:200}}>
-          <div style={{background:"var(--surface)",borderTop:"1px solid var(--border2)",borderRadius:"16px 16px 0 0",width:"100%",maxWidth:640,maxHeight:"70vh",display:"flex",flexDirection:"column",boxShadow:"0 -12px 40px #0008"}}>
-            <div style={{padding:"14px 20px",borderBottom:"1px solid var(--border)",display:"flex",justifyContent:"space-between",alignItems:"center",gap:10}}>
-              <span style={{fontFamily:"'Cinzel',serif",fontSize:".85rem",color:"var(--gold2)"}}>Select Hymn</span>
-              <div style={{display:"flex",gap:8,flex:1,justifyContent:"flex-end",flexWrap:"wrap"}}>
-                <input value={pickerSearch} onChange={e=>setPickerSearch(e.target.value)} placeholder="Search…"
-                  style={{background:"var(--bg2)",border:"1px solid var(--border)",color:"var(--cream)",padding:"5px 10px",borderRadius:8,fontSize:".75rem",fontFamily:"'JetBrains Mono',monospace",outline:"none",width:130}}/>
-                <KeyFilterDropdown hymns={hymns} value={pickerKeyFilter} onChange={setPickerKeyFilter}/>
-              </div>
-              <BigBtn onClick={()=>setShowPicker(false)} variant="ghost">✕</BigBtn>
-            </div>
-            <div style={{overflowY:"auto",padding:12}}>
-              {uniqueNumbers.map(num => {
-                const group=hymnGroups[num], firstHymn=group[0];
-                const keysAvailable=group.map(h=>h.key||"D");
-                const alreadyAdded=group.some(h=>items.includes(h.id));
-                return (
-                  <div key={num} onClick={()=>!alreadyAdded&&handlePickerSelect(num)}
-                    style={{display:"flex",alignItems:"center",gap:12,padding:"12px 16px",borderRadius:10,marginBottom:6,cursor:alreadyAdded?"not-allowed":"pointer",background:alreadyAdded?"var(--surface2)":"var(--surface)",border:`1px solid ${alreadyAdded?"var(--border)":"var(--border2)"}`,opacity:alreadyAdded?.5:1,transition:"border-color .12s"}}
-                    onMouseEnter={e => { if(!alreadyAdded) e.currentTarget.style.borderColor="var(--gold)"; }}
-                    onMouseLeave={e => { e.currentTarget.style.borderColor=alreadyAdded?"var(--border)":"var(--border2)"; }}>
-                    <span style={{fontFamily:"'Cinzel',serif",fontSize:".65rem",color:"var(--gold)",minWidth:38}}>#{num}</span>
-                    <div style={{flex:1}}>
-                      <div style={{fontSize:".9rem",marginBottom:4}}>{firstHymn.title}</div>
-                      <div style={{display:"flex",gap:4,flexWrap:"wrap"}}>
-                        {keysAvailable.map(k=><span key={k} style={{fontFamily:"'JetBrains Mono',monospace",fontSize:".58rem",padding:"2px 8px",borderRadius:8,background:"var(--bg2)",border:"1px solid var(--border2)",color:"var(--gold2)"}}>{k}</span>)}
-                      </div>
-                    </div>
-                    {group.length>1 && <span style={{fontSize:".68rem",color:"var(--muted)",whiteSpace:"nowrap"}}>{group.length} keys →</span>}
-                    {alreadyAdded && <span style={{fontSize:".68rem",color:"var(--green)"}}>✓ added</span>}
-                  </div>
-                );
-              })}
-              {uniqueNumbers.length===0 && <p style={{textAlign:"center",color:"var(--muted)",padding:"30px 0",fontSize:".82rem"}}>No hymns match</p>}
-            </div>
-          </div>
-        </div>
-      )}
-      {pendingGroup && (
-        <KeySelectionModal open={showKeyModal} onClose={()=>{setShowKeyModal(false);setPendingGroup(null);setShowPicker(true);}}
-          hymnNumber={pendingGroup.number} hymnTitle={pendingGroup.title} availableHymns={pendingGroup.hymns} onSelect={handleKeySelected}/>
+      {(showPicker || swapIdx !== null) && (
+        <HymnPickerSheet groups={groups} addedIds={items} swap={swapIdx !== null}
+          startNumber={swapIdx !== null ? hymnById[items[swapIdx]]?.number : null}
+          onPick={onPick} onClose={() => { setShowPicker(false); setSwapIdx(null); }}/>
       )}
     </div>
   );
