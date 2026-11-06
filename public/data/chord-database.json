@@ -1,0 +1,3948 @@
+{
+  "majorScales": {
+    "C Major": {
+      "I": {
+        "chord": "C",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      "ii": {
+        "chord": "Dm",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      "iii": {
+        "chord": "Em",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      "IV": {
+        "chord": "F",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      "V": {
+        "chord": "G",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      "vi": {
+        "chord": "Am",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      "vii°": {
+        "chord": "Bdim",
+        "notes": [
+          "B",
+          "D",
+          "F"
+        ]
+      }
+    },
+    "Db Major": {
+      "I": {
+        "chord": "Db",
+        "notes": [
+          "Db",
+          "F",
+          "Ab"
+        ]
+      },
+      "ii": {
+        "chord": "Ebm",
+        "notes": [
+          "Eb",
+          "Gb",
+          "Bb"
+        ]
+      },
+      "iii": {
+        "chord": "Fm",
+        "notes": [
+          "F",
+          "Ab",
+          "C"
+        ]
+      },
+      "IV": {
+        "chord": "Gb",
+        "notes": [
+          "Gb",
+          "Bb",
+          "Db"
+        ]
+      },
+      "V": {
+        "chord": "Ab",
+        "notes": [
+          "Ab",
+          "C",
+          "Eb"
+        ]
+      },
+      "vi": {
+        "chord": "Bbm",
+        "notes": [
+          "Bb",
+          "Db",
+          "F"
+        ]
+      },
+      "vii°": {
+        "chord": "Cdim",
+        "notes": [
+          "C",
+          "Eb",
+          "Gb"
+        ]
+      }
+    },
+    "D Major": {
+      "I": {
+        "chord": "D",
+        "notes": [
+          "D",
+          "F#",
+          "A"
+        ]
+      },
+      "ii": {
+        "chord": "Em",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      "iii": {
+        "chord": "F#m",
+        "notes": [
+          "F#",
+          "A",
+          "C#"
+        ]
+      },
+      "IV": {
+        "chord": "G",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      "V": {
+        "chord": "A",
+        "notes": [
+          "A",
+          "C#",
+          "E"
+        ]
+      },
+      "vi": {
+        "chord": "Bm",
+        "notes": [
+          "B",
+          "D",
+          "F#"
+        ]
+      },
+      "vii°": {
+        "chord": "C#dim",
+        "notes": [
+          "C#",
+          "E",
+          "G"
+        ]
+      }
+    },
+    "Eb Major": {
+      "I": {
+        "chord": "Eb",
+        "notes": [
+          "Eb",
+          "G",
+          "Bb"
+        ]
+      },
+      "ii": {
+        "chord": "Fm",
+        "notes": [
+          "F",
+          "Ab",
+          "C"
+        ]
+      },
+      "iii": {
+        "chord": "Gm",
+        "notes": [
+          "G",
+          "Bb",
+          "D"
+        ]
+      },
+      "IV": {
+        "chord": "Ab",
+        "notes": [
+          "Ab",
+          "C",
+          "Eb"
+        ]
+      },
+      "V": {
+        "chord": "Bb",
+        "notes": [
+          "Bb",
+          "D",
+          "F"
+        ]
+      },
+      "vi": {
+        "chord": "Cm",
+        "notes": [
+          "C",
+          "Eb",
+          "G"
+        ]
+      },
+      "vii°": {
+        "chord": "Ddim",
+        "notes": [
+          "D",
+          "F",
+          "Ab"
+        ]
+      }
+    },
+    "E Major": {
+      "I": {
+        "chord": "E",
+        "notes": [
+          "E",
+          "G#",
+          "B"
+        ]
+      },
+      "ii": {
+        "chord": "F#m",
+        "notes": [
+          "F#",
+          "A",
+          "C#"
+        ]
+      },
+      "iii": {
+        "chord": "G#m",
+        "notes": [
+          "G#",
+          "B",
+          "D#"
+        ]
+      },
+      "IV": {
+        "chord": "A",
+        "notes": [
+          "A",
+          "C#",
+          "E"
+        ]
+      },
+      "V": {
+        "chord": "B",
+        "notes": [
+          "B",
+          "D#",
+          "F#"
+        ]
+      },
+      "vi": {
+        "chord": "C#m",
+        "notes": [
+          "C#",
+          "E",
+          "G#"
+        ]
+      },
+      "vii°": {
+        "chord": "D#dim",
+        "notes": [
+          "D#",
+          "F#",
+          "A"
+        ]
+      }
+    },
+    "F Major": {
+      "I": {
+        "chord": "F",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      "ii": {
+        "chord": "Gm",
+        "notes": [
+          "G",
+          "Bb",
+          "D"
+        ]
+      },
+      "iii": {
+        "chord": "Am",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      "IV": {
+        "chord": "Bb",
+        "notes": [
+          "Bb",
+          "D",
+          "F"
+        ]
+      },
+      "V": {
+        "chord": "C",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      "vi": {
+        "chord": "Dm",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      "vii°": {
+        "chord": "Edim",
+        "notes": [
+          "E",
+          "G",
+          "Bb"
+        ]
+      }
+    },
+    "F# Major": {
+      "I": {
+        "chord": "F#",
+        "notes": [
+          "F#",
+          "A#",
+          "C#"
+        ]
+      },
+      "ii": {
+        "chord": "G#m",
+        "notes": [
+          "G#",
+          "B",
+          "D#"
+        ]
+      },
+      "iii": {
+        "chord": "A#m",
+        "notes": [
+          "A#",
+          "C#",
+          "E#"
+        ]
+      },
+      "IV": {
+        "chord": "B",
+        "notes": [
+          "B",
+          "D#",
+          "F#"
+        ]
+      },
+      "V": {
+        "chord": "C#",
+        "notes": [
+          "C#",
+          "E#",
+          "G#"
+        ]
+      },
+      "vi": {
+        "chord": "D#m",
+        "notes": [
+          "D#",
+          "F#",
+          "A#"
+        ]
+      },
+      "vii°": {
+        "chord": "E#dim",
+        "notes": [
+          "E#",
+          "G#",
+          "B"
+        ]
+      }
+    },
+    "G Major": {
+      "I": {
+        "chord": "G",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      "ii": {
+        "chord": "Am",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      "iii": {
+        "chord": "Bm",
+        "notes": [
+          "B",
+          "D",
+          "F#"
+        ]
+      },
+      "IV": {
+        "chord": "C",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      "V": {
+        "chord": "D",
+        "notes": [
+          "D",
+          "F#",
+          "A"
+        ]
+      },
+      "vi": {
+        "chord": "Em",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      "vii°": {
+        "chord": "F#dim",
+        "notes": [
+          "F#",
+          "A",
+          "C"
+        ]
+      }
+    },
+    "Ab Major": {
+      "I": {
+        "chord": "Ab",
+        "notes": [
+          "Ab",
+          "C",
+          "Eb"
+        ]
+      },
+      "ii": {
+        "chord": "Bbm",
+        "notes": [
+          "Bb",
+          "Db",
+          "F"
+        ]
+      },
+      "iii": {
+        "chord": "Cm",
+        "notes": [
+          "C",
+          "Eb",
+          "G"
+        ]
+      },
+      "IV": {
+        "chord": "Db",
+        "notes": [
+          "Db",
+          "F",
+          "Ab"
+        ]
+      },
+      "V": {
+        "chord": "Eb",
+        "notes": [
+          "Eb",
+          "G",
+          "Bb"
+        ]
+      },
+      "vi": {
+        "chord": "Fm",
+        "notes": [
+          "F",
+          "Ab",
+          "C"
+        ]
+      },
+      "vii°": {
+        "chord": "Gdim",
+        "notes": [
+          "G",
+          "Bb",
+          "Db"
+        ]
+      }
+    },
+    "A Major": {
+      "I": {
+        "chord": "A",
+        "notes": [
+          "A",
+          "C#",
+          "E"
+        ]
+      },
+      "ii": {
+        "chord": "Bm",
+        "notes": [
+          "B",
+          "D",
+          "F#"
+        ]
+      },
+      "iii": {
+        "chord": "C#m",
+        "notes": [
+          "C#",
+          "E",
+          "G#"
+        ]
+      },
+      "IV": {
+        "chord": "D",
+        "notes": [
+          "D",
+          "F#",
+          "A"
+        ]
+      },
+      "V": {
+        "chord": "E",
+        "notes": [
+          "E",
+          "G#",
+          "B"
+        ]
+      },
+      "vi": {
+        "chord": "F#m",
+        "notes": [
+          "F#",
+          "A",
+          "C#"
+        ]
+      },
+      "vii°": {
+        "chord": "G#dim",
+        "notes": [
+          "G#",
+          "B",
+          "D"
+        ]
+      }
+    },
+    "Bb Major": {
+      "I": {
+        "chord": "Bb",
+        "notes": [
+          "Bb",
+          "D",
+          "F"
+        ]
+      },
+      "ii": {
+        "chord": "Cm",
+        "notes": [
+          "C",
+          "Eb",
+          "G"
+        ]
+      },
+      "iii": {
+        "chord": "Dm",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      "IV": {
+        "chord": "Eb",
+        "notes": [
+          "Eb",
+          "G",
+          "Bb"
+        ]
+      },
+      "V": {
+        "chord": "F",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      "vi": {
+        "chord": "Gm",
+        "notes": [
+          "G",
+          "Bb",
+          "D"
+        ]
+      },
+      "vii°": {
+        "chord": "Adim",
+        "notes": [
+          "A",
+          "C",
+          "Eb"
+        ]
+      }
+    },
+    "B Major": {
+      "I": {
+        "chord": "B",
+        "notes": [
+          "B",
+          "D#",
+          "F#"
+        ]
+      },
+      "ii": {
+        "chord": "C#m",
+        "notes": [
+          "C#",
+          "E",
+          "G#"
+        ]
+      },
+      "iii": {
+        "chord": "D#m",
+        "notes": [
+          "D#",
+          "F#",
+          "A#"
+        ]
+      },
+      "IV": {
+        "chord": "E",
+        "notes": [
+          "E",
+          "G#",
+          "B"
+        ]
+      },
+      "V": {
+        "chord": "F#",
+        "notes": [
+          "F#",
+          "A#",
+          "C#"
+        ]
+      },
+      "vi": {
+        "chord": "G#m",
+        "notes": [
+          "G#",
+          "B",
+          "D#"
+        ]
+      },
+      "vii°": {
+        "chord": "A#dim",
+        "notes": [
+          "A#",
+          "C#",
+          "E"
+        ]
+      }
+    }
+  },
+  "minorScales": {
+    "C Minor": {
+      "i": {
+        "chord": "Cm",
+        "notes": [
+          "C",
+          "Eb",
+          "G"
+        ]
+      },
+      "ii°": {
+        "chord": "Ddim",
+        "notes": [
+          "D",
+          "F",
+          "Ab"
+        ]
+      },
+      "III": {
+        "chord": "Eb",
+        "notes": [
+          "Eb",
+          "G",
+          "Bb"
+        ]
+      },
+      "iv": {
+        "chord": "Fm",
+        "notes": [
+          "F",
+          "Ab",
+          "C"
+        ]
+      },
+      "v": {
+        "chord": "Gm",
+        "notes": [
+          "G",
+          "Bb",
+          "D"
+        ]
+      },
+      "VI": {
+        "chord": "Ab",
+        "notes": [
+          "Ab",
+          "C",
+          "Eb"
+        ]
+      },
+      "VII": {
+        "chord": "Bb",
+        "notes": [
+          "Bb",
+          "D",
+          "F"
+        ]
+      }
+    },
+    "C# Minor": {
+      "i": {
+        "chord": "C#m",
+        "notes": [
+          "C#",
+          "E",
+          "G#"
+        ]
+      },
+      "ii°": {
+        "chord": "D#dim",
+        "notes": [
+          "D#",
+          "F#",
+          "A"
+        ]
+      },
+      "III": {
+        "chord": "E",
+        "notes": [
+          "E",
+          "G#",
+          "B"
+        ]
+      },
+      "iv": {
+        "chord": "F#m",
+        "notes": [
+          "F#",
+          "A",
+          "C#"
+        ]
+      },
+      "v": {
+        "chord": "G#m",
+        "notes": [
+          "G#",
+          "B",
+          "D#"
+        ]
+      },
+      "VI": {
+        "chord": "A",
+        "notes": [
+          "A",
+          "C#",
+          "E"
+        ]
+      },
+      "VII": {
+        "chord": "B",
+        "notes": [
+          "B",
+          "D#",
+          "F#"
+        ]
+      }
+    },
+    "D Minor": {
+      "i": {
+        "chord": "Dm",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      "ii°": {
+        "chord": "Edim",
+        "notes": [
+          "E",
+          "G",
+          "Bb"
+        ]
+      },
+      "III": {
+        "chord": "F",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      "iv": {
+        "chord": "Gm",
+        "notes": [
+          "G",
+          "Bb",
+          "D"
+        ]
+      },
+      "v": {
+        "chord": "Am",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      "VI": {
+        "chord": "Bb",
+        "notes": [
+          "Bb",
+          "D",
+          "F"
+        ]
+      },
+      "VII": {
+        "chord": "C",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      }
+    },
+    "Eb Minor": {
+      "i": {
+        "chord": "Ebm",
+        "notes": [
+          "Eb",
+          "Gb",
+          "Bb"
+        ]
+      },
+      "ii°": {
+        "chord": "Fdim",
+        "notes": [
+          "F",
+          "Ab",
+          "Cb"
+        ]
+      },
+      "III": {
+        "chord": "Gb",
+        "notes": [
+          "Gb",
+          "Bb",
+          "Db"
+        ]
+      },
+      "iv": {
+        "chord": "Abm",
+        "notes": [
+          "Ab",
+          "Cb",
+          "Eb"
+        ]
+      },
+      "v": {
+        "chord": "Bbm",
+        "notes": [
+          "Bb",
+          "Db",
+          "F"
+        ]
+      },
+      "VI": {
+        "chord": "Cb",
+        "notes": [
+          "Cb",
+          "Eb",
+          "Gb"
+        ]
+      },
+      "VII": {
+        "chord": "Db",
+        "notes": [
+          "Db",
+          "F",
+          "Ab"
+        ]
+      }
+    },
+    "E Minor": {
+      "i": {
+        "chord": "Em",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      "ii°": {
+        "chord": "F#dim",
+        "notes": [
+          "F#",
+          "A",
+          "C"
+        ]
+      },
+      "III": {
+        "chord": "G",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      "iv": {
+        "chord": "Am",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      "v": {
+        "chord": "Bm",
+        "notes": [
+          "B",
+          "D",
+          "F#"
+        ]
+      },
+      "VI": {
+        "chord": "C",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      "VII": {
+        "chord": "D",
+        "notes": [
+          "D",
+          "F#",
+          "A"
+        ]
+      }
+    },
+    "F Minor": {
+      "i": {
+        "chord": "Fm",
+        "notes": [
+          "F",
+          "Ab",
+          "C"
+        ]
+      },
+      "ii°": {
+        "chord": "Gdim",
+        "notes": [
+          "G",
+          "Bb",
+          "Db"
+        ]
+      },
+      "III": {
+        "chord": "Ab",
+        "notes": [
+          "Ab",
+          "C",
+          "Eb"
+        ]
+      },
+      "iv": {
+        "chord": "Bbm",
+        "notes": [
+          "Bb",
+          "Db",
+          "F"
+        ]
+      },
+      "v": {
+        "chord": "Cm",
+        "notes": [
+          "C",
+          "Eb",
+          "G"
+        ]
+      },
+      "VI": {
+        "chord": "Db",
+        "notes": [
+          "Db",
+          "F",
+          "Ab"
+        ]
+      },
+      "VII": {
+        "chord": "Eb",
+        "notes": [
+          "Eb",
+          "G",
+          "Bb"
+        ]
+      }
+    },
+    "F# Minor": {
+      "i": {
+        "chord": "F#m",
+        "notes": [
+          "F#",
+          "A",
+          "C#"
+        ]
+      },
+      "ii°": {
+        "chord": "G#dim",
+        "notes": [
+          "G#",
+          "B",
+          "D"
+        ]
+      },
+      "III": {
+        "chord": "A",
+        "notes": [
+          "A",
+          "C#",
+          "E"
+        ]
+      },
+      "iv": {
+        "chord": "Bm",
+        "notes": [
+          "B",
+          "D",
+          "F#"
+        ]
+      },
+      "v": {
+        "chord": "C#m",
+        "notes": [
+          "C#",
+          "E",
+          "G#"
+        ]
+      },
+      "VI": {
+        "chord": "D",
+        "notes": [
+          "D",
+          "F#",
+          "A"
+        ]
+      },
+      "VII": {
+        "chord": "E",
+        "notes": [
+          "E",
+          "G#",
+          "B"
+        ]
+      }
+    },
+    "G Minor": {
+      "i": {
+        "chord": "Gm",
+        "notes": [
+          "G",
+          "Bb",
+          "D"
+        ]
+      },
+      "ii°": {
+        "chord": "Adim",
+        "notes": [
+          "A",
+          "C",
+          "Eb"
+        ]
+      },
+      "III": {
+        "chord": "Bb",
+        "notes": [
+          "Bb",
+          "D",
+          "F"
+        ]
+      },
+      "iv": {
+        "chord": "Cm",
+        "notes": [
+          "C",
+          "Eb",
+          "G"
+        ]
+      },
+      "v": {
+        "chord": "Dm",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      "VI": {
+        "chord": "Eb",
+        "notes": [
+          "Eb",
+          "G",
+          "Bb"
+        ]
+      },
+      "VII": {
+        "chord": "F",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    },
+    "G# Minor": {
+      "i": {
+        "chord": "G#m",
+        "notes": [
+          "G#",
+          "B",
+          "D#"
+        ]
+      },
+      "ii°": {
+        "chord": "A#dim",
+        "notes": [
+          "A#",
+          "C#",
+          "E"
+        ]
+      },
+      "III": {
+        "chord": "B",
+        "notes": [
+          "B",
+          "D#",
+          "F#"
+        ]
+      },
+      "iv": {
+        "chord": "C#m",
+        "notes": [
+          "C#",
+          "E",
+          "G#"
+        ]
+      },
+      "v": {
+        "chord": "D#m",
+        "notes": [
+          "D#",
+          "F#",
+          "A#"
+        ]
+      },
+      "VI": {
+        "chord": "E",
+        "notes": [
+          "E",
+          "G#",
+          "B"
+        ]
+      },
+      "VII": {
+        "chord": "F#",
+        "notes": [
+          "F#",
+          "A#",
+          "C#"
+        ]
+      }
+    },
+    "A Minor": {
+      "i": {
+        "chord": "Am",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      "ii°": {
+        "chord": "Bdim",
+        "notes": [
+          "B",
+          "D",
+          "F"
+        ]
+      },
+      "III": {
+        "chord": "C",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      "iv": {
+        "chord": "Dm",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      "v": {
+        "chord": "Em",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      "VI": {
+        "chord": "F",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      "VII": {
+        "chord": "G",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    },
+    "Bb Minor": {
+      "i": {
+        "chord": "Bbm",
+        "notes": [
+          "Bb",
+          "Db",
+          "F"
+        ]
+      },
+      "ii°": {
+        "chord": "Cdim",
+        "notes": [
+          "C",
+          "Eb",
+          "Gb"
+        ]
+      },
+      "III": {
+        "chord": "Db",
+        "notes": [
+          "Db",
+          "F",
+          "Ab"
+        ]
+      },
+      "iv": {
+        "chord": "Ebm",
+        "notes": [
+          "Eb",
+          "Gb",
+          "Bb"
+        ]
+      },
+      "v": {
+        "chord": "Fm",
+        "notes": [
+          "F",
+          "Ab",
+          "C"
+        ]
+      },
+      "VI": {
+        "chord": "Gb",
+        "notes": [
+          "Gb",
+          "Bb",
+          "Db"
+        ]
+      },
+      "VII": {
+        "chord": "Ab",
+        "notes": [
+          "Ab",
+          "C",
+          "Eb"
+        ]
+      }
+    },
+    "B Minor": {
+      "i": {
+        "chord": "Bm",
+        "notes": [
+          "B",
+          "D",
+          "F#"
+        ]
+      },
+      "ii°": {
+        "chord": "C#dim",
+        "notes": [
+          "C#",
+          "E",
+          "G"
+        ]
+      },
+      "III": {
+        "chord": "D",
+        "notes": [
+          "D",
+          "F#",
+          "A"
+        ]
+      },
+      "iv": {
+        "chord": "Em",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      "v": {
+        "chord": "F#m",
+        "notes": [
+          "F#",
+          "A",
+          "C#"
+        ]
+      },
+      "VI": {
+        "chord": "G",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      "VII": {
+        "chord": "A",
+        "notes": [
+          "A",
+          "C#",
+          "E"
+        ]
+      }
+    }
+  },
+  "majorScaleNotes": {
+    "C Major": [
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "A",
+      "B"
+    ],
+    "Db Major": [
+      "Db",
+      "Eb",
+      "F",
+      "Gb",
+      "Ab",
+      "Bb",
+      "C"
+    ],
+    "D Major": [
+      "D",
+      "E",
+      "F#",
+      "G",
+      "A",
+      "B",
+      "C#"
+    ],
+    "Eb Major": [
+      "Eb",
+      "F",
+      "G",
+      "Ab",
+      "Bb",
+      "C",
+      "D"
+    ],
+    "E Major": [
+      "E",
+      "F#",
+      "G#",
+      "A",
+      "B",
+      "C#",
+      "D#"
+    ],
+    "F Major": [
+      "F",
+      "G",
+      "A",
+      "Bb",
+      "C",
+      "D",
+      "E"
+    ],
+    "F# Major": [
+      "F#",
+      "G#",
+      "A#",
+      "B",
+      "C#",
+      "D#",
+      "E#"
+    ],
+    "G Major": [
+      "G",
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F#"
+    ],
+    "Ab Major": [
+      "Ab",
+      "Bb",
+      "C",
+      "Db",
+      "Eb",
+      "F",
+      "G"
+    ],
+    "A Major": [
+      "A",
+      "B",
+      "C#",
+      "D",
+      "E",
+      "F#",
+      "G#"
+    ],
+    "Bb Major": [
+      "Bb",
+      "C",
+      "D",
+      "Eb",
+      "F",
+      "G",
+      "A"
+    ],
+    "B Major": [
+      "B",
+      "C#",
+      "D#",
+      "E",
+      "F#",
+      "G#",
+      "A#"
+    ]
+  },
+  "minorScaleNotes": {
+    "C Minor": [
+      "C",
+      "D",
+      "Eb",
+      "F",
+      "G",
+      "Ab",
+      "Bb"
+    ],
+    "C# Minor": [
+      "C#",
+      "D#",
+      "E",
+      "F#",
+      "G#",
+      "A",
+      "B"
+    ],
+    "D Minor": [
+      "D",
+      "E",
+      "F",
+      "G",
+      "A",
+      "Bb",
+      "C"
+    ],
+    "Eb Minor": [
+      "Eb",
+      "F",
+      "Gb",
+      "Ab",
+      "Bb",
+      "Cb",
+      "Db"
+    ],
+    "E Minor": [
+      "E",
+      "F#",
+      "G",
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "F Minor": [
+      "F",
+      "G",
+      "Ab",
+      "Bb",
+      "C",
+      "Db",
+      "Eb"
+    ],
+    "F# Minor": [
+      "F#",
+      "G#",
+      "A",
+      "B",
+      "C#",
+      "D",
+      "E"
+    ],
+    "G Minor": [
+      "G",
+      "A",
+      "Bb",
+      "C",
+      "D",
+      "Eb",
+      "F"
+    ],
+    "G# Minor": [
+      "G#",
+      "A#",
+      "B",
+      "C#",
+      "D#",
+      "E",
+      "F#"
+    ],
+    "A Minor": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+    ],
+    "Bb Minor": [
+      "Bb",
+      "C",
+      "Db",
+      "Eb",
+      "F",
+      "Gb",
+      "Ab"
+    ],
+    "B Minor": [
+      "B",
+      "C#",
+      "D",
+      "E",
+      "F#",
+      "G",
+      "A"
+    ]
+  },
+  "outOfScaleChords": {
+    "C Major": {
+      "borrowedChords": {
+        "i": {
+          "chord": "Cm",
+          "notes": [
+            "C",
+            "Eb",
+            "G"
+          ],
+          "source": "C Minor",
+          "quality": "minor"
+        },
+        "bIII": {
+          "chord": "Eb",
+          "notes": [
+            "Eb",
+            "G",
+            "Bb"
+          ],
+          "source": "C Minor",
+          "quality": "major"
+        },
+        "iv": {
+          "chord": "Fm",
+          "notes": [
+            "F",
+            "Ab",
+            "C"
+          ],
+          "source": "C Minor",
+          "quality": "minor"
+        },
+        "v": {
+          "chord": "Gm",
+          "notes": [
+            "G",
+            "Bb",
+            "D"
+          ],
+          "source": "C Minor",
+          "quality": "minor"
+        },
+        "bVI": {
+          "chord": "Ab",
+          "notes": [
+            "Ab",
+            "C",
+            "Eb"
+          ],
+          "source": "C Minor",
+          "quality": "major"
+        },
+        "bVII": {
+          "chord": "Bb",
+          "notes": [
+            "Bb",
+            "D",
+            "F"
+          ],
+          "source": "C Minor",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "D",
+          "notes": [
+            "D",
+            "F#",
+            "A"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "D7",
+          "notes": [
+            "D",
+            "F#",
+            "A",
+            "C"
+          ],
+          "target": "V"
+        },
+        "V7/IV": {
+          "chord": "C7",
+          "notes": [
+            "C",
+            "E",
+            "G",
+            "Bb"
+          ],
+          "target": "IV"
+        }
+      }
+    },
+    "Db Major": {
+      "borrowedChords": {
+        "i": {
+          "chord": "Dbm",
+          "notes": [
+            "Db",
+            "Fb",
+            "Ab"
+          ],
+          "source": "Db Minor",
+          "quality": "minor"
+        },
+        "bIII": {
+          "chord": "E",
+          "notes": [
+            "E",
+            "G#",
+            "B"
+          ],
+          "source": "Db Minor",
+          "quality": "major"
+        },
+        "iv": {
+          "chord": "Gbm",
+          "notes": [
+            "Gb",
+            "Bbb",
+            "Db"
+          ],
+          "source": "Db Minor",
+          "quality": "minor"
+        },
+        "v": {
+          "chord": "Abm",
+          "notes": [
+            "Ab",
+            "Cb",
+            "Eb"
+          ],
+          "source": "Db Minor",
+          "quality": "minor"
+        },
+        "bVI": {
+          "chord": "B",
+          "notes": [
+            "B",
+            "D#",
+            "F#"
+          ],
+          "source": "Db Minor",
+          "quality": "major"
+        },
+        "bVII": {
+          "chord": "Cb",
+          "notes": [
+            "Cb",
+            "Eb",
+            "Gb"
+          ],
+          "source": "Db Minor",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "Eb",
+          "notes": [
+            "Eb",
+            "G",
+            "Bb"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "Eb7",
+          "notes": [
+            "Eb",
+            "G",
+            "Bb",
+            "Db"
+          ],
+          "target": "V"
+        },
+        "V7/IV": {
+          "chord": "Db7",
+          "notes": [
+            "Db",
+            "F",
+            "Ab",
+            "Cb"
+          ],
+          "target": "IV"
+        }
+      }
+    },
+    "D Major": {
+      "borrowedChords": {
+        "i": {
+          "chord": "Dm",
+          "notes": [
+            "D",
+            "F",
+            "A"
+          ],
+          "source": "D Minor",
+          "quality": "minor"
+        },
+        "bIII": {
+          "chord": "F",
+          "notes": [
+            "F",
+            "A",
+            "C"
+          ],
+          "source": "D Minor",
+          "quality": "major"
+        },
+        "iv": {
+          "chord": "Gm",
+          "notes": [
+            "G",
+            "Bb",
+            "D"
+          ],
+          "source": "D Minor",
+          "quality": "minor"
+        },
+        "v": {
+          "chord": "Am",
+          "notes": [
+            "A",
+            "C",
+            "E"
+          ],
+          "source": "D Minor",
+          "quality": "minor"
+        },
+        "bVI": {
+          "chord": "Bb",
+          "notes": [
+            "Bb",
+            "D",
+            "F"
+          ],
+          "source": "D Minor",
+          "quality": "major"
+        },
+        "bVII": {
+          "chord": "C",
+          "notes": [
+            "C",
+            "E",
+            "G"
+          ],
+          "source": "D Minor",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "E",
+          "notes": [
+            "E",
+            "G#",
+            "B"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "E7",
+          "notes": [
+            "E",
+            "G#",
+            "B",
+            "D"
+          ],
+          "target": "V"
+        },
+        "V7/IV": {
+          "chord": "D7",
+          "notes": [
+            "D",
+            "F#",
+            "A",
+            "C"
+          ],
+          "target": "IV"
+        }
+      }
+    },
+    "Eb Major": {
+      "borrowedChords": {
+        "i": {
+          "chord": "Ebm",
+          "notes": [
+            "Eb",
+            "Gb",
+            "Bb"
+          ],
+          "source": "Eb Minor",
+          "quality": "minor"
+        },
+        "bIII": {
+          "chord": "Gb",
+          "notes": [
+            "Gb",
+            "Bb",
+            "Db"
+          ],
+          "source": "Eb Minor",
+          "quality": "major"
+        },
+        "iv": {
+          "chord": "Abm",
+          "notes": [
+            "Ab",
+            "Cb",
+            "Eb"
+          ],
+          "source": "Eb Minor",
+          "quality": "minor"
+        },
+        "v": {
+          "chord": "Bbm",
+          "notes": [
+            "Bb",
+            "Db",
+            "F"
+          ],
+          "source": "Eb Minor",
+          "quality": "minor"
+        },
+        "bVI": {
+          "chord": "Cb",
+          "notes": [
+            "Cb",
+            "Eb",
+            "Gb"
+          ],
+          "source": "Eb Minor",
+          "quality": "major"
+        },
+        "bVII": {
+          "chord": "Db",
+          "notes": [
+            "Db",
+            "F",
+            "Ab"
+          ],
+          "source": "Eb Minor",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "F",
+          "notes": [
+            "F",
+            "A",
+            "C"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "F7",
+          "notes": [
+            "F",
+            "A",
+            "C",
+            "Eb"
+          ],
+          "target": "V"
+        },
+        "V7/IV": {
+          "chord": "Eb7",
+          "notes": [
+            "Eb",
+            "G",
+            "Bb",
+            "Db"
+          ],
+          "target": "IV"
+        }
+      }
+    },
+    "E Major": {
+      "borrowedChords": {
+        "i": {
+          "chord": "Em",
+          "notes": [
+            "E",
+            "G",
+            "B"
+          ],
+          "source": "E Minor",
+          "quality": "minor"
+        },
+        "bIII": {
+          "chord": "G",
+          "notes": [
+            "G",
+            "B",
+            "D"
+          ],
+          "source": "E Minor",
+          "quality": "major"
+        },
+        "iv": {
+          "chord": "Am",
+          "notes": [
+            "A",
+            "C",
+            "E"
+          ],
+          "source": "E Minor",
+          "quality": "minor"
+        },
+        "v": {
+          "chord": "Bm",
+          "notes": [
+            "B",
+            "D",
+            "F#"
+          ],
+          "source": "E Minor",
+          "quality": "minor"
+        },
+        "bVI": {
+          "chord": "C",
+          "notes": [
+            "C",
+            "E",
+            "G"
+          ],
+          "source": "E Minor",
+          "quality": "major"
+        },
+        "bVII": {
+          "chord": "D",
+          "notes": [
+            "D",
+            "F#",
+            "A"
+          ],
+          "source": "E Minor",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "F#",
+          "notes": [
+            "F#",
+            "A#",
+            "C#"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "F#7",
+          "notes": [
+            "F#",
+            "A#",
+            "C#",
+            "E"
+          ],
+          "target": "V"
+        },
+        "V7/IV": {
+          "chord": "E7",
+          "notes": [
+            "E",
+            "G#",
+            "B",
+            "D"
+          ],
+          "target": "IV"
+        }
+      }
+    },
+    "F Major": {
+      "borrowedChords": {
+        "i": {
+          "chord": "Fm",
+          "notes": [
+            "F",
+            "Ab",
+            "C"
+          ],
+          "source": "F Minor",
+          "quality": "minor"
+        },
+        "bIII": {
+          "chord": "Ab",
+          "notes": [
+            "Ab",
+            "C",
+            "Eb"
+          ],
+          "source": "F Minor",
+          "quality": "major"
+        },
+        "iv": {
+          "chord": "Bbm",
+          "notes": [
+            "Bb",
+            "Db",
+            "F"
+          ],
+          "source": "F Minor",
+          "quality": "minor"
+        },
+        "v": {
+          "chord": "Cm",
+          "notes": [
+            "C",
+            "Eb",
+            "G"
+          ],
+          "source": "F Minor",
+          "quality": "minor"
+        },
+        "bVI": {
+          "chord": "Db",
+          "notes": [
+            "Db",
+            "F",
+            "Ab"
+          ],
+          "source": "F Minor",
+          "quality": "major"
+        },
+        "bVII": {
+          "chord": "Eb",
+          "notes": [
+            "Eb",
+            "G",
+            "Bb"
+          ],
+          "source": "F Minor",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "G",
+          "notes": [
+            "G",
+            "B",
+            "D"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "G7",
+          "notes": [
+            "G",
+            "B",
+            "D",
+            "F"
+          ],
+          "target": "V"
+        },
+        "V7/IV": {
+          "chord": "F7",
+          "notes": [
+            "F",
+            "A",
+            "C",
+            "Eb"
+          ],
+          "target": "IV"
+        }
+      }
+    },
+    "F# Major": {
+      "borrowedChords": {
+        "i": {
+          "chord": "F#m",
+          "notes": [
+            "F#",
+            "A",
+            "C#"
+          ],
+          "source": "F# Minor",
+          "quality": "minor"
+        },
+        "bIII": {
+          "chord": "A",
+          "notes": [
+            "A",
+            "C#",
+            "E"
+          ],
+          "source": "F# Minor",
+          "quality": "major"
+        },
+        "iv": {
+          "chord": "Bm",
+          "notes": [
+            "B",
+            "D",
+            "F#"
+          ],
+          "source": "F# Minor",
+          "quality": "minor"
+        },
+        "v": {
+          "chord": "C#m",
+          "notes": [
+            "C#",
+            "E",
+            "G#"
+          ],
+          "source": "F# Minor",
+          "quality": "minor"
+        },
+        "bVI": {
+          "chord": "D",
+          "notes": [
+            "D",
+            "F#",
+            "A"
+          ],
+          "source": "F# Minor",
+          "quality": "major"
+        },
+        "bVII": {
+          "chord": "E",
+          "notes": [
+            "E",
+            "G#",
+            "B"
+          ],
+          "source": "F# Minor",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "G#",
+          "notes": [
+            "G#",
+            "B#",
+            "D#"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "G#7",
+          "notes": [
+            "G#",
+            "B#",
+            "D#",
+            "F#"
+          ],
+          "target": "V"
+        },
+        "V7/IV": {
+          "chord": "F#7",
+          "notes": [
+            "F#",
+            "A#",
+            "C#",
+            "E"
+          ],
+          "target": "IV"
+        }
+      }
+    },
+    "G Major": {
+      "borrowedChords": {
+        "i": {
+          "chord": "Gm",
+          "notes": [
+            "G",
+            "Bb",
+            "D"
+          ],
+          "source": "G Minor",
+          "quality": "minor"
+        },
+        "bIII": {
+          "chord": "Bb",
+          "notes": [
+            "Bb",
+            "D",
+            "F"
+          ],
+          "source": "G Minor",
+          "quality": "major"
+        },
+        "iv": {
+          "chord": "Cm",
+          "notes": [
+            "C",
+            "Eb",
+            "G"
+          ],
+          "source": "G Minor",
+          "quality": "minor"
+        },
+        "v": {
+          "chord": "Dm",
+          "notes": [
+            "D",
+            "F",
+            "A"
+          ],
+          "source": "G Minor",
+          "quality": "minor"
+        },
+        "bVI": {
+          "chord": "Eb",
+          "notes": [
+            "Eb",
+            "G",
+            "Bb"
+          ],
+          "source": "G Minor",
+          "quality": "major"
+        },
+        "bVII": {
+          "chord": "F",
+          "notes": [
+            "F",
+            "A",
+            "C"
+          ],
+          "source": "G Minor",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "A",
+          "notes": [
+            "A",
+            "C#",
+            "E"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "A7",
+          "notes": [
+            "A",
+            "C#",
+            "E",
+            "G"
+          ],
+          "target": "V"
+        },
+        "V7/IV": {
+          "chord": "G7",
+          "notes": [
+            "G",
+            "B",
+            "D",
+            "F"
+          ],
+          "target": "IV"
+        }
+      }
+    },
+    "Ab Major": {
+      "borrowedChords": {
+        "i": {
+          "chord": "Abm",
+          "notes": [
+            "Ab",
+            "Cb",
+            "Eb"
+          ],
+          "source": "Ab Minor",
+          "quality": "minor"
+        },
+        "bIII": {
+          "chord": "Cb",
+          "notes": [
+            "Cb",
+            "Eb",
+            "Gb"
+          ],
+          "source": "Ab Minor",
+          "quality": "major"
+        },
+        "iv": {
+          "chord": "Dbm",
+          "notes": [
+            "Db",
+            "Fb",
+            "Ab"
+          ],
+          "source": "Ab Minor",
+          "quality": "minor"
+        },
+        "v": {
+          "chord": "Ebm",
+          "notes": [
+            "Eb",
+            "Gb",
+            "Bb"
+          ],
+          "source": "Ab Minor",
+          "quality": "minor"
+        },
+        "bVI": {
+          "chord": "Fb",
+          "notes": [
+            "Fb",
+            "Ab",
+            "Cb"
+          ],
+          "source": "Ab Minor",
+          "quality": "major"
+        },
+        "bVII": {
+          "chord": "Gb",
+          "notes": [
+            "Gb",
+            "Bb",
+            "Db"
+          ],
+          "source": "Ab Minor",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "Bb",
+          "notes": [
+            "Bb",
+            "D",
+            "F"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "Bb7",
+          "notes": [
+            "Bb",
+            "D",
+            "F",
+            "Ab"
+          ],
+          "target": "V"
+        },
+        "V7/IV": {
+          "chord": "Ab7",
+          "notes": [
+            "Ab",
+            "C",
+            "Eb",
+            "Gb"
+          ],
+          "target": "IV"
+        }
+      }
+    },
+    "A Major": {
+      "borrowedChords": {
+        "i": {
+          "chord": "Am",
+          "notes": [
+            "A",
+            "C",
+            "E"
+          ],
+          "source": "A Minor",
+          "quality": "minor"
+        },
+        "bIII": {
+          "chord": "C",
+          "notes": [
+            "C",
+            "E",
+            "G"
+          ],
+          "source": "A Minor",
+          "quality": "major"
+        },
+        "iv": {
+          "chord": "Dm",
+          "notes": [
+            "D",
+            "F",
+            "A"
+          ],
+          "source": "A Minor",
+          "quality": "minor"
+        },
+        "v": {
+          "chord": "Em",
+          "notes": [
+            "E",
+            "G",
+            "B"
+          ],
+          "source": "A Minor",
+          "quality": "minor"
+        },
+        "bVI": {
+          "chord": "F",
+          "notes": [
+            "F",
+            "A",
+            "C"
+          ],
+          "source": "A Minor",
+          "quality": "major"
+        },
+        "bVII": {
+          "chord": "G",
+          "notes": [
+            "G",
+            "B",
+            "D"
+          ],
+          "source": "A Minor",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "B",
+          "notes": [
+            "B",
+            "D#",
+            "F#"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "B7",
+          "notes": [
+            "B",
+            "D#",
+            "F#",
+            "A"
+          ],
+          "target": "V"
+        },
+        "V7/IV": {
+          "chord": "A7",
+          "notes": [
+            "A",
+            "C#",
+            "E",
+            "G"
+          ],
+          "target": "IV"
+        }
+      }
+    },
+    "Bb Major": {
+      "borrowedChords": {
+        "i": {
+          "chord": "Bbm",
+          "notes": [
+            "Bb",
+            "Db",
+            "F"
+          ],
+          "source": "Bb Minor",
+          "quality": "minor"
+        },
+        "bIII": {
+          "chord": "Db",
+          "notes": [
+            "Db",
+            "F",
+            "Ab"
+          ],
+          "source": "Bb Minor",
+          "quality": "major"
+        },
+        "iv": {
+          "chord": "Ebm",
+          "notes": [
+            "Eb",
+            "Gb",
+            "Bb"
+          ],
+          "source": "Bb Minor",
+          "quality": "minor"
+        },
+        "v": {
+          "chord": "Fm",
+          "notes": [
+            "F",
+            "Ab",
+            "C"
+          ],
+          "source": "Bb Minor",
+          "quality": "minor"
+        },
+        "bVI": {
+          "chord": "Gb",
+          "notes": [
+            "Gb",
+            "Bb",
+            "Db"
+          ],
+          "source": "Bb Minor",
+          "quality": "major"
+        },
+        "bVII": {
+          "chord": "Ab",
+          "notes": [
+            "Ab",
+            "C",
+            "Eb"
+          ],
+          "source": "Bb Minor",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "C",
+          "notes": [
+            "C",
+            "E",
+            "G"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "C7",
+          "notes": [
+            "C",
+            "E",
+            "G",
+            "Bb"
+          ],
+          "target": "V"
+        },
+        "V7/IV": {
+          "chord": "Bb7",
+          "notes": [
+            "Bb",
+            "D",
+            "F",
+            "Ab"
+          ],
+          "target": "IV"
+        }
+      }
+    },
+    "B Major": {
+      "borrowedChords": {
+        "i": {
+          "chord": "Bm",
+          "notes": [
+            "B",
+            "D",
+            "F#"
+          ],
+          "source": "B Minor",
+          "quality": "minor"
+        },
+        "bIII": {
+          "chord": "D",
+          "notes": [
+            "D",
+            "F#",
+            "A"
+          ],
+          "source": "B Minor",
+          "quality": "major"
+        },
+        "iv": {
+          "chord": "Em",
+          "notes": [
+            "E",
+            "G",
+            "B"
+          ],
+          "source": "B Minor",
+          "quality": "minor"
+        },
+        "v": {
+          "chord": "F#m",
+          "notes": [
+            "F#",
+            "A",
+            "C#"
+          ],
+          "source": "B Minor",
+          "quality": "minor"
+        },
+        "bVI": {
+          "chord": "G",
+          "notes": [
+            "G",
+            "B",
+            "D"
+          ],
+          "source": "B Minor",
+          "quality": "major"
+        },
+        "bVII": {
+          "chord": "A",
+          "notes": [
+            "A",
+            "C#",
+            "E"
+          ],
+          "source": "B Minor",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "C#",
+          "notes": [
+            "C#",
+            "E#",
+            "G#"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "C#7",
+          "notes": [
+            "C#",
+            "E#",
+            "G#",
+            "B"
+          ],
+          "target": "V"
+        },
+        "V7/IV": {
+          "chord": "B7",
+          "notes": [
+            "B",
+            "D#",
+            "F#",
+            "A"
+          ],
+          "target": "IV"
+        }
+      }
+    },
+    "C Minor": {
+      "borrowedChords": {
+        "I": {
+          "chord": "C",
+          "notes": [
+            "C",
+            "E",
+            "G"
+          ],
+          "source": "C Major",
+          "quality": "major"
+        },
+        "ii": {
+          "chord": "Dm",
+          "notes": [
+            "D",
+            "F",
+            "A"
+          ],
+          "source": "C Major",
+          "quality": "minor"
+        },
+        "IV": {
+          "chord": "F",
+          "notes": [
+            "F",
+            "A",
+            "C"
+          ],
+          "source": "C Major",
+          "quality": "major"
+        },
+        "V": {
+          "chord": "G",
+          "notes": [
+            "G",
+            "B",
+            "D"
+          ],
+          "source": "harmonicMinorOrMajorDominant",
+          "quality": "major"
+        },
+        "VI": {
+          "chord": "Ab",
+          "notes": [
+            "Ab",
+            "C",
+            "Eb"
+          ],
+          "source": "C Major",
+          "quality": "major"
+        },
+        "VII": {
+          "chord": "Bb",
+          "notes": [
+            "Bb",
+            "D",
+            "F"
+          ],
+          "source": "C Major",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "D",
+          "notes": [
+            "D",
+            "F#",
+            "A"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "D7",
+          "notes": [
+            "D",
+            "F#",
+            "A",
+            "C"
+          ],
+          "target": "V"
+        },
+        "V7/iv": {
+          "chord": "C7",
+          "notes": [
+            "C",
+            "E",
+            "G",
+            "Bb"
+          ],
+          "target": "iv"
+        }
+      }
+    },
+    "C# Minor": {
+      "borrowedChords": {
+        "I": {
+          "chord": "C#",
+          "notes": [
+            "C#",
+            "E#",
+            "G#"
+          ],
+          "source": "C# Major",
+          "quality": "major"
+        },
+        "ii": {
+          "chord": "D#m",
+          "notes": [
+            "D#",
+            "F#",
+            "A#"
+          ],
+          "source": "C# Major",
+          "quality": "minor"
+        },
+        "IV": {
+          "chord": "F#",
+          "notes": [
+            "F#",
+            "A#",
+            "C#"
+          ],
+          "source": "C# Major",
+          "quality": "major"
+        },
+        "V": {
+          "chord": "G#",
+          "notes": [
+            "G#",
+            "B#",
+            "D#"
+          ],
+          "source": "harmonicMinorOrMajorDominant",
+          "quality": "major"
+        },
+        "VI": {
+          "chord": "A",
+          "notes": [
+            "A",
+            "C#",
+            "E"
+          ],
+          "source": "C# Major",
+          "quality": "major"
+        },
+        "VII": {
+          "chord": "B",
+          "notes": [
+            "B",
+            "D#",
+            "F#"
+          ],
+          "source": "C# Major",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "D#",
+          "notes": [
+            "D#",
+            "F##",
+            "A#"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "D#7",
+          "notes": [
+            "D#",
+            "F##",
+            "A#",
+            "C#"
+          ],
+          "target": "V"
+        },
+        "V7/iv": {
+          "chord": "C#7",
+          "notes": [
+            "C#",
+            "E#",
+            "G#",
+            "B"
+          ],
+          "target": "iv"
+        }
+      }
+    },
+    "D Minor": {
+      "borrowedChords": {
+        "I": {
+          "chord": "D",
+          "notes": [
+            "D",
+            "F#",
+            "A"
+          ],
+          "source": "D Major",
+          "quality": "major"
+        },
+        "ii": {
+          "chord": "Em",
+          "notes": [
+            "E",
+            "G",
+            "B"
+          ],
+          "source": "D Major",
+          "quality": "minor"
+        },
+        "IV": {
+          "chord": "G",
+          "notes": [
+            "G",
+            "B",
+            "D"
+          ],
+          "source": "D Major",
+          "quality": "major"
+        },
+        "V": {
+          "chord": "A",
+          "notes": [
+            "A",
+            "C#",
+            "E"
+          ],
+          "source": "harmonicMinorOrMajorDominant",
+          "quality": "major"
+        },
+        "VI": {
+          "chord": "Bb",
+          "notes": [
+            "Bb",
+            "D",
+            "F"
+          ],
+          "source": "D Major",
+          "quality": "major"
+        },
+        "VII": {
+          "chord": "C",
+          "notes": [
+            "C",
+            "E",
+            "G"
+          ],
+          "source": "D Major",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "E",
+          "notes": [
+            "E",
+            "G#",
+            "B"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "E7",
+          "notes": [
+            "E",
+            "G#",
+            "B",
+            "D"
+          ],
+          "target": "V"
+        },
+        "V7/iv": {
+          "chord": "D7",
+          "notes": [
+            "D",
+            "F#",
+            "A",
+            "C"
+          ],
+          "target": "iv"
+        }
+      }
+    },
+    "Eb Minor": {
+      "borrowedChords": {
+        "I": {
+          "chord": "Eb",
+          "notes": [
+            "Eb",
+            "G",
+            "Bb"
+          ],
+          "source": "Eb Major",
+          "quality": "major"
+        },
+        "ii": {
+          "chord": "Fm",
+          "notes": [
+            "F",
+            "Ab",
+            "C"
+          ],
+          "source": "Eb Major",
+          "quality": "minor"
+        },
+        "IV": {
+          "chord": "Ab",
+          "notes": [
+            "Ab",
+            "C",
+            "Eb"
+          ],
+          "source": "Eb Major",
+          "quality": "major"
+        },
+        "V": {
+          "chord": "Bb",
+          "notes": [
+            "Bb",
+            "D",
+            "F"
+          ],
+          "source": "harmonicMinorOrMajorDominant",
+          "quality": "major"
+        },
+        "VI": {
+          "chord": "Cb",
+          "notes": [
+            "Cb",
+            "Eb",
+            "Gb"
+          ],
+          "source": "Eb Major",
+          "quality": "major"
+        },
+        "VII": {
+          "chord": "Db",
+          "notes": [
+            "Db",
+            "F",
+            "Ab"
+          ],
+          "source": "Eb Major",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "F",
+          "notes": [
+            "F",
+            "A",
+            "C"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "F7",
+          "notes": [
+            "F",
+            "A",
+            "C",
+            "Eb"
+          ],
+          "target": "V"
+        },
+        "V7/iv": {
+          "chord": "Eb7",
+          "notes": [
+            "Eb",
+            "G",
+            "Bb",
+            "Db"
+          ],
+          "target": "iv"
+        }
+      }
+    },
+    "E Minor": {
+      "borrowedChords": {
+        "I": {
+          "chord": "E",
+          "notes": [
+            "E",
+            "G#",
+            "B"
+          ],
+          "source": "E Major",
+          "quality": "major"
+        },
+        "ii": {
+          "chord": "F#m",
+          "notes": [
+            "F#",
+            "A",
+            "C#"
+          ],
+          "source": "E Major",
+          "quality": "minor"
+        },
+        "IV": {
+          "chord": "A",
+          "notes": [
+            "A",
+            "C#",
+            "E"
+          ],
+          "source": "E Major",
+          "quality": "major"
+        },
+        "V": {
+          "chord": "B",
+          "notes": [
+            "B",
+            "D#",
+            "F#"
+          ],
+          "source": "harmonicMinorOrMajorDominant",
+          "quality": "major"
+        },
+        "VI": {
+          "chord": "C",
+          "notes": [
+            "C",
+            "E",
+            "G"
+          ],
+          "source": "E Major",
+          "quality": "major"
+        },
+        "VII": {
+          "chord": "D",
+          "notes": [
+            "D",
+            "F#",
+            "A"
+          ],
+          "source": "E Major",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "F#",
+          "notes": [
+            "F#",
+            "A#",
+            "C#"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "F#7",
+          "notes": [
+            "F#",
+            "A#",
+            "C#",
+            "E"
+          ],
+          "target": "V"
+        },
+        "V7/iv": {
+          "chord": "E7",
+          "notes": [
+            "E",
+            "G#",
+            "B",
+            "D"
+          ],
+          "target": "iv"
+        }
+      }
+    },
+    "F Minor": {
+      "borrowedChords": {
+        "I": {
+          "chord": "F",
+          "notes": [
+            "F",
+            "A",
+            "C"
+          ],
+          "source": "F Major",
+          "quality": "major"
+        },
+        "ii": {
+          "chord": "Gm",
+          "notes": [
+            "G",
+            "Bb",
+            "D"
+          ],
+          "source": "F Major",
+          "quality": "minor"
+        },
+        "IV": {
+          "chord": "Bb",
+          "notes": [
+            "Bb",
+            "D",
+            "F"
+          ],
+          "source": "F Major",
+          "quality": "major"
+        },
+        "V": {
+          "chord": "C",
+          "notes": [
+            "C",
+            "E",
+            "G"
+          ],
+          "source": "harmonicMinorOrMajorDominant",
+          "quality": "major"
+        },
+        "VI": {
+          "chord": "Db",
+          "notes": [
+            "Db",
+            "F",
+            "Ab"
+          ],
+          "source": "F Major",
+          "quality": "major"
+        },
+        "VII": {
+          "chord": "Eb",
+          "notes": [
+            "Eb",
+            "G",
+            "Bb"
+          ],
+          "source": "F Major",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "G",
+          "notes": [
+            "G",
+            "B",
+            "D"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "G7",
+          "notes": [
+            "G",
+            "B",
+            "D",
+            "F"
+          ],
+          "target": "V"
+        },
+        "V7/iv": {
+          "chord": "F7",
+          "notes": [
+            "F",
+            "A",
+            "C",
+            "Eb"
+          ],
+          "target": "iv"
+        }
+      }
+    },
+    "F# Minor": {
+      "borrowedChords": {
+        "I": {
+          "chord": "F#",
+          "notes": [
+            "F#",
+            "A#",
+            "C#"
+          ],
+          "source": "F# Major",
+          "quality": "major"
+        },
+        "ii": {
+          "chord": "G#m",
+          "notes": [
+            "G#",
+            "B",
+            "D#"
+          ],
+          "source": "F# Major",
+          "quality": "minor"
+        },
+        "IV": {
+          "chord": "B",
+          "notes": [
+            "B",
+            "D#",
+            "F#"
+          ],
+          "source": "F# Major",
+          "quality": "major"
+        },
+        "V": {
+          "chord": "C#",
+          "notes": [
+            "C#",
+            "E#",
+            "G#"
+          ],
+          "source": "harmonicMinorOrMajorDominant",
+          "quality": "major"
+        },
+        "VI": {
+          "chord": "D",
+          "notes": [
+            "D",
+            "F#",
+            "A"
+          ],
+          "source": "F# Major",
+          "quality": "major"
+        },
+        "VII": {
+          "chord": "E",
+          "notes": [
+            "E",
+            "G#",
+            "B"
+          ],
+          "source": "F# Major",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "G#",
+          "notes": [
+            "G#",
+            "B#",
+            "D#"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "G#7",
+          "notes": [
+            "G#",
+            "B#",
+            "D#",
+            "F#"
+          ],
+          "target": "V"
+        },
+        "V7/iv": {
+          "chord": "F#7",
+          "notes": [
+            "F#",
+            "A#",
+            "C#",
+            "E"
+          ],
+          "target": "iv"
+        }
+      }
+    },
+    "G Minor": {
+      "borrowedChords": {
+        "I": {
+          "chord": "G",
+          "notes": [
+            "G",
+            "B",
+            "D"
+          ],
+          "source": "G Major",
+          "quality": "major"
+        },
+        "ii": {
+          "chord": "Am",
+          "notes": [
+            "A",
+            "C",
+            "E"
+          ],
+          "source": "G Major",
+          "quality": "minor"
+        },
+        "IV": {
+          "chord": "C",
+          "notes": [
+            "C",
+            "E",
+            "G"
+          ],
+          "source": "G Major",
+          "quality": "major"
+        },
+        "V": {
+          "chord": "D",
+          "notes": [
+            "D",
+            "F#",
+            "A"
+          ],
+          "source": "harmonicMinorOrMajorDominant",
+          "quality": "major"
+        },
+        "VI": {
+          "chord": "Eb",
+          "notes": [
+            "Eb",
+            "G",
+            "Bb"
+          ],
+          "source": "G Major",
+          "quality": "major"
+        },
+        "VII": {
+          "chord": "F",
+          "notes": [
+            "F",
+            "A",
+            "C"
+          ],
+          "source": "G Major",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "A",
+          "notes": [
+            "A",
+            "C#",
+            "E"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "A7",
+          "notes": [
+            "A",
+            "C#",
+            "E",
+            "G"
+          ],
+          "target": "V"
+        },
+        "V7/iv": {
+          "chord": "G7",
+          "notes": [
+            "G",
+            "B",
+            "D",
+            "F"
+          ],
+          "target": "iv"
+        }
+      }
+    },
+    "G# Minor": {
+      "borrowedChords": {
+        "I": {
+          "chord": "G#",
+          "notes": [
+            "G#",
+            "B#",
+            "D#"
+          ],
+          "source": "G# Major",
+          "quality": "major"
+        },
+        "ii": {
+          "chord": "A#m",
+          "notes": [
+            "A#",
+            "C#",
+            "E#"
+          ],
+          "source": "G# Major",
+          "quality": "minor"
+        },
+        "IV": {
+          "chord": "C#",
+          "notes": [
+            "C#",
+            "E#",
+            "G#"
+          ],
+          "source": "G# Major",
+          "quality": "major"
+        },
+        "V": {
+          "chord": "D#",
+          "notes": [
+            "D#",
+            "F##",
+            "A#"
+          ],
+          "source": "harmonicMinorOrMajorDominant",
+          "quality": "major"
+        },
+        "VI": {
+          "chord": "E",
+          "notes": [
+            "E",
+            "G#",
+            "B"
+          ],
+          "source": "G# Major",
+          "quality": "major"
+        },
+        "VII": {
+          "chord": "F#",
+          "notes": [
+            "F#",
+            "A#",
+            "C#"
+          ],
+          "source": "G# Major",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "A#",
+          "notes": [
+            "A#",
+            "C##",
+            "E#"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "A#7",
+          "notes": [
+            "A#",
+            "C##",
+            "E#",
+            "G#"
+          ],
+          "target": "V"
+        },
+        "V7/iv": {
+          "chord": "G#7",
+          "notes": [
+            "G#",
+            "B#",
+            "D#",
+            "F#"
+          ],
+          "target": "iv"
+        }
+      }
+    },
+    "A Minor": {
+      "borrowedChords": {
+        "I": {
+          "chord": "A",
+          "notes": [
+            "A",
+            "C#",
+            "E"
+          ],
+          "source": "A Major",
+          "quality": "major"
+        },
+        "ii": {
+          "chord": "Bm",
+          "notes": [
+            "B",
+            "D",
+            "F#"
+          ],
+          "source": "A Major",
+          "quality": "minor"
+        },
+        "IV": {
+          "chord": "D",
+          "notes": [
+            "D",
+            "F#",
+            "A"
+          ],
+          "source": "A Major",
+          "quality": "major"
+        },
+        "V": {
+          "chord": "E",
+          "notes": [
+            "E",
+            "G#",
+            "B"
+          ],
+          "source": "harmonicMinorOrMajorDominant",
+          "quality": "major"
+        },
+        "VI": {
+          "chord": "F",
+          "notes": [
+            "F",
+            "A",
+            "C"
+          ],
+          "source": "A Major",
+          "quality": "major"
+        },
+        "VII": {
+          "chord": "G",
+          "notes": [
+            "G",
+            "B",
+            "D"
+          ],
+          "source": "A Major",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "B",
+          "notes": [
+            "B",
+            "D#",
+            "F#"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "B7",
+          "notes": [
+            "B",
+            "D#",
+            "F#",
+            "A"
+          ],
+          "target": "V"
+        },
+        "V7/iv": {
+          "chord": "A7",
+          "notes": [
+            "A",
+            "C#",
+            "E",
+            "G"
+          ],
+          "target": "iv"
+        }
+      }
+    },
+    "Bb Minor": {
+      "borrowedChords": {
+        "I": {
+          "chord": "Bb",
+          "notes": [
+            "Bb",
+            "D",
+            "F"
+          ],
+          "source": "Bb Major",
+          "quality": "major"
+        },
+        "ii": {
+          "chord": "Cm",
+          "notes": [
+            "C",
+            "Eb",
+            "G"
+          ],
+          "source": "Bb Major",
+          "quality": "minor"
+        },
+        "IV": {
+          "chord": "Eb",
+          "notes": [
+            "Eb",
+            "G",
+            "Bb"
+          ],
+          "source": "Bb Major",
+          "quality": "major"
+        },
+        "V": {
+          "chord": "F",
+          "notes": [
+            "F",
+            "A",
+            "C"
+          ],
+          "source": "harmonicMinorOrMajorDominant",
+          "quality": "major"
+        },
+        "VI": {
+          "chord": "Gb",
+          "notes": [
+            "Gb",
+            "Bb",
+            "Db"
+          ],
+          "source": "Bb Major",
+          "quality": "major"
+        },
+        "VII": {
+          "chord": "Ab",
+          "notes": [
+            "Ab",
+            "C",
+            "Eb"
+          ],
+          "source": "Bb Major",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "C",
+          "notes": [
+            "C",
+            "E",
+            "G"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "C7",
+          "notes": [
+            "C",
+            "E",
+            "G",
+            "Bb"
+          ],
+          "target": "V"
+        },
+        "V7/iv": {
+          "chord": "Bb7",
+          "notes": [
+            "Bb",
+            "D",
+            "F",
+            "Ab"
+          ],
+          "target": "iv"
+        }
+      }
+    },
+    "B Minor": {
+      "borrowedChords": {
+        "I": {
+          "chord": "B",
+          "notes": [
+            "B",
+            "D#",
+            "F#"
+          ],
+          "source": "B Major",
+          "quality": "major"
+        },
+        "ii": {
+          "chord": "C#m",
+          "notes": [
+            "C#",
+            "E",
+            "G#"
+          ],
+          "source": "B Major",
+          "quality": "minor"
+        },
+        "IV": {
+          "chord": "E",
+          "notes": [
+            "E",
+            "G#",
+            "B"
+          ],
+          "source": "B Major",
+          "quality": "major"
+        },
+        "V": {
+          "chord": "F#",
+          "notes": [
+            "F#",
+            "A#",
+            "C#"
+          ],
+          "source": "harmonicMinorOrMajorDominant",
+          "quality": "major"
+        },
+        "VI": {
+          "chord": "G",
+          "notes": [
+            "G",
+            "B",
+            "D"
+          ],
+          "source": "B Major",
+          "quality": "major"
+        },
+        "VII": {
+          "chord": "A",
+          "notes": [
+            "A",
+            "C#",
+            "E"
+          ],
+          "source": "B Major",
+          "quality": "major"
+        }
+      },
+      "chromaticChords": {
+        "II": {
+          "chord": "C#",
+          "notes": [
+            "C#",
+            "E#",
+            "G#"
+          ],
+          "quality": "major"
+        }
+      },
+      "secondaryDominants": {
+        "V7/V": {
+          "chord": "C#7",
+          "notes": [
+            "C#",
+            "E#",
+            "G#",
+            "B"
+          ],
+          "target": "V"
+        },
+        "V7/iv": {
+          "chord": "B7",
+          "notes": [
+            "B",
+            "D#",
+            "F#",
+            "A"
+          ],
+          "target": "iv"
+        }
+      }
+    }
+  }
+}
