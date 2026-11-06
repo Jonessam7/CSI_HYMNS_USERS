@@ -19,6 +19,7 @@ export const PALETTES = {
 };
 
 export function transposeChord(chord, steps) {
+  if (/\s/.test((chord || "").trim())) return chord.trim().split(/\s+/).map(c => transposeChord(c, steps)).join(" ");   // "D G" = two chords in one slot
   const m = chord.match(/^([A-G][#b]?)(.*)$/);
   if (!m) return chord;
   let root = m[1]

@@ -1,1 +1,2342 @@
-[]
+[
+  {
+    "id": "2mpdg7jp",
+    "groupId": "lcbh0ox1",
+    "number": 1,
+    "title": "ಭೂಲೋಕವೆಲ್ಲಾ ಕರ್ತನಗೆ",
+    "key": "A",
+    "lines": [
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಸಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಧ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಎ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ],
+      [],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "A",
+        "A",
+        "D",
+        "A D",
+        "Eᴴ",
+        "Aᴴ",
+        "Eᴴ",
+        "",
+        "D A"
+      ],
+      [
+        "A",
+        "A",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      [],
+      [
+        "A",
+        "A",
+        "E",
+        "A",
+        "A",
+        "D A",
+        "D A",
+        "E"
+      ],
+      [
+        "A",
+        "D",
+        "Eᴴ",
+        "Aᴴ",
+        "D",
+        "A",
+        "E",
+        "A"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "iis1qhhb",
+    "groupId": "lcbh0ox1",
+    "number": 1,
+    "title": "ಭೂಲೋಕವೆಲ್ಲಾ ಕರ್ತನಗೆ",
+    "key": "Ab",
+    "lines": [
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಸಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಧ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಎ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ],
+      [],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Ab",
+        "Ab",
+        "Db",
+        "Ab Db",
+        "Ebᴴ",
+        "Abᴴ",
+        "Ebᴴ",
+        "",
+        "Db Ab"
+      ],
+      [
+        "Ab",
+        "Ab",
+        "Ab",
+        "Db",
+        "Ab",
+        "Db",
+        "Ab",
+        "Eb"
+      ],
+      [],
+      [
+        "Ab",
+        "Ab",
+        "Eb",
+        "Ab",
+        "Ab",
+        "Db Ab",
+        "Db Ab",
+        "Eb"
+      ],
+      [
+        "Ab",
+        "Db",
+        "Ebᴴ",
+        "Abᴴ",
+        "Db",
+        "Ab",
+        "Eb",
+        "Ab"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "7e9gbp7j",
+    "groupId": "lcbh0ox1",
+    "number": 1,
+    "title": "ಭೂಲೋಕವೆಲ್ಲಾ ಕರ್ತನಗೆ",
+    "key": "B",
+    "lines": [
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಸಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಧ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಎ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ],
+      [],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "B",
+        "B",
+        "E",
+        "B E",
+        "F#ᴴ",
+        "Bᴴ",
+        "F#ᴴ",
+        "",
+        "E B"
+      ],
+      [
+        "B",
+        "B",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "F#"
+      ],
+      [],
+      [
+        "B",
+        "B",
+        "F#",
+        "B",
+        "B",
+        "E B",
+        "E B",
+        "F#"
+      ],
+      [
+        "B",
+        "E",
+        "F#ᴴ",
+        "Bᴴ",
+        "E",
+        "B",
+        "F#",
+        "B"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "dls94f7x",
+    "groupId": "lcbh0ox1",
+    "number": 1,
+    "title": "ಭೂಲೋಕವೆಲ್ಲಾ ಕರ್ತನಗೆ",
+    "key": "Bb",
+    "lines": [
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಸಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಧ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಎ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ],
+      [],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Bb",
+        "Bb",
+        "Eb",
+        "Bb Eb",
+        "Fᴴ",
+        "Bbᴴ",
+        "Fᴴ",
+        "",
+        "Eb Bb"
+      ],
+      [
+        "Bb",
+        "Bb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      [],
+      [
+        "Bb",
+        "Bb",
+        "F",
+        "Bb",
+        "Bb",
+        "Eb Bb",
+        "Eb Bb",
+        "F"
+      ],
+      [
+        "Bb",
+        "Eb",
+        "Fᴴ",
+        "Bbᴴ",
+        "Eb",
+        "Bb",
+        "F",
+        "Bb"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "bu3w081d",
+    "groupId": "lcbh0ox1",
+    "number": 1,
+    "title": "ಭೂಲೋಕವೆಲ್ಲಾ ಕರ್ತನಗೆ",
+    "key": "C",
+    "lines": [
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಸಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಧ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಎ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ],
+      [],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "C",
+        "C",
+        "F",
+        "C F",
+        "Gᴴ",
+        "Cᴴ",
+        "Gᴴ",
+        "",
+        "F C"
+      ],
+      [
+        "C",
+        "C",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "G"
+      ],
+      [],
+      [
+        "C",
+        "C",
+        "G",
+        "C",
+        "C",
+        "F C",
+        "F C",
+        "G"
+      ],
+      [
+        "C",
+        "F",
+        "Gᴴ",
+        "Cᴴ",
+        "F",
+        "C",
+        "G",
+        "C"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "r6z4efhs",
+    "groupId": "lcbh0ox1",
+    "number": 1,
+    "title": "ಭೂಲೋಕವೆಲ್ಲಾ ಕರ್ತನಗೆ",
+    "key": "D",
+    "lines": [
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಸಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಧ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಎ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ],
+      [],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "D",
+        "D",
+        "G",
+        "D G",
+        "Aᴴ",
+        "Dᴴ",
+        "Aᴴ",
+        "",
+        "G D"
+      ],
+      [
+        "D",
+        "D",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A"
+      ],
+      [],
+      [
+        "D",
+        "D",
+        "A",
+        "D",
+        "D",
+        "G D",
+        "G D",
+        "A"
+      ],
+      [
+        "D",
+        "G",
+        "Aᴴ",
+        "Dᴴ",
+        "G",
+        "D",
+        "A",
+        "D"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "tos6p9by",
+    "groupId": "lcbh0ox1",
+    "number": 1,
+    "title": "ಭೂಲೋಕವೆಲ್ಲಾ ಕರ್ತನಗೆ",
+    "key": "Db",
+    "lines": [
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಸಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಧ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಎ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ],
+      [],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Db",
+        "Db",
+        "Gb",
+        "Db Gb",
+        "Abᴴ",
+        "Dbᴴ",
+        "Abᴴ",
+        "",
+        "Gb Db"
+      ],
+      [
+        "Db",
+        "Db",
+        "Db",
+        "Gb",
+        "Db",
+        "Gb",
+        "Db",
+        "Ab"
+      ],
+      [],
+      [
+        "Db",
+        "Db",
+        "Ab",
+        "Db",
+        "Db",
+        "Gb Db",
+        "Gb Db",
+        "Ab"
+      ],
+      [
+        "Db",
+        "Gb",
+        "Abᴴ",
+        "Dbᴴ",
+        "Gb",
+        "Db",
+        "Ab",
+        "Db"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "x2yr56pg",
+    "groupId": "lcbh0ox1",
+    "number": 1,
+    "title": "ಭೂಲೋಕವೆಲ್ಲಾ ಕರ್ತನಗೆ",
+    "key": "E",
+    "lines": [
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಸಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಧ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಎ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ],
+      [],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "E",
+        "E",
+        "A",
+        "E A",
+        "Bᴴ",
+        "Eᴴ",
+        "Bᴴ",
+        "",
+        "A E"
+      ],
+      [
+        "E",
+        "E",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "B"
+      ],
+      [],
+      [
+        "E",
+        "E",
+        "B",
+        "E",
+        "E",
+        "A E",
+        "A E",
+        "B"
+      ],
+      [
+        "E",
+        "A",
+        "Bᴴ",
+        "Eᴴ",
+        "A",
+        "E",
+        "B",
+        "E"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "rvlqyu43",
+    "groupId": "lcbh0ox1",
+    "number": 1,
+    "title": "ಭೂಲೋಕವೆಲ್ಲಾ ಕರ್ತನಗೆ",
+    "key": "Eb",
+    "lines": [
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಸಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಧ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಎ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ],
+      [],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Eb",
+        "Eb",
+        "Ab",
+        "Eb Ab",
+        "Bbᴴ",
+        "Ebᴴ",
+        "Bbᴴ",
+        "",
+        "Ab Eb"
+      ],
+      [
+        "Eb",
+        "Eb",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bb"
+      ],
+      [],
+      [
+        "Eb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Eb",
+        "Ab Eb",
+        "Ab Eb",
+        "Bb"
+      ],
+      [
+        "Eb",
+        "Ab",
+        "Bbᴴ",
+        "Ebᴴ",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Eb"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "9njspp6k",
+    "groupId": "lcbh0ox1",
+    "number": 1,
+    "title": "ಭೂಲೋಕವೆಲ್ಲಾ ಕರ್ತನಗೆ",
+    "key": "F",
+    "lines": [
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಸಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಧ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಎ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ],
+      [],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "F",
+        "F",
+        "Bb",
+        "F Bb",
+        "Cᴴ",
+        "Fᴴ",
+        "Cᴴ",
+        "",
+        "Bb F"
+      ],
+      [
+        "F",
+        "F",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "C"
+      ],
+      [],
+      [
+        "F",
+        "F",
+        "C",
+        "F",
+        "F",
+        "Bb F",
+        "Bb F",
+        "C"
+      ],
+      [
+        "F",
+        "Bb",
+        "Cᴴ",
+        "Fᴴ",
+        "Bb",
+        "F",
+        "C",
+        "F"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "zro9qjot",
+    "groupId": "lcbh0ox1",
+    "number": 1,
+    "title": "ಭೂಲೋಕವೆಲ್ಲಾ ಕರ್ತನಗೆ",
+    "key": "G",
+    "lines": [
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಸಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಧ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಎ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ],
+      [],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "G",
+        "G",
+        "C",
+        "G C",
+        "Dᴴ",
+        "Gᴴ",
+        "Dᴴ",
+        "",
+        "C G"
+      ],
+      [
+        "G",
+        "G",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D"
+      ],
+      [],
+      [
+        "G",
+        "G",
+        "D",
+        "G",
+        "G",
+        "C G",
+        "C G",
+        "D"
+      ],
+      [
+        "G",
+        "C",
+        "Dᴴ",
+        "Gᴴ",
+        "C",
+        "G",
+        "D",
+        "G"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "qulhfxbd",
+    "groupId": "lcbh0ox1",
+    "number": 1,
+    "title": "ಭೂಲೋಕವೆಲ್ಲಾ ಕರ್ತನಗೆ",
+    "key": "Gb",
+    "lines": [
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಸಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಧ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಎ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ],
+      [],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Gb",
+        "Gb",
+        "Cb",
+        "Gb Cb",
+        "Dbᴴ",
+        "Gbᴴ",
+        "Dbᴴ",
+        "",
+        "Cb Gb"
+      ],
+      [
+        "Gb",
+        "Gb",
+        "Gb",
+        "Cb",
+        "Gb",
+        "Cb",
+        "Gb",
+        "Db"
+      ],
+      [],
+      [
+        "Gb",
+        "Gb",
+        "Db",
+        "Gb",
+        "Gb",
+        "Cb Gb",
+        "Cb Gb",
+        "Db"
+      ],
+      [
+        "Gb",
+        "Cb",
+        "Dbᴴ",
+        "Gbᴴ",
+        "Cb",
+        "Gb",
+        "Db",
+        "Gb"
+      ]
+    ],
+    "level": "Easy"
+  }
+]
