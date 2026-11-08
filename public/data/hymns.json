@@ -5542,5 +5542,3353 @@
       ]
     ],
     "level": "Easy"
+  },
+  {
+    "id": "6u1udy8f",
+    "groupId": "7gw3beol",
+    "number": 9,
+    "title": "ಶುದ್ಧ ಶುದ್ಧ ಶುದ್ಧ",
+    "key": "A",
+    "lines": [
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೊಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಳ್ಳು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೃ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಣ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ್ರ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಓ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯೈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "D",
+        "D",
+        "D",
+        "D",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A",
+        "A",
+        "Aᴴ",
+        "Eᴴ"
+      ],
+      [
+        "A",
+        "E",
+        "E",
+        "Dᴴ",
+        "B",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "Dᴴ",
+        "D",
+        "D",
+        "D",
+        "A",
+        "A"
+      ],
+      [
+        "Aᴴ",
+        "A",
+        "A",
+        "A",
+        "Dᴴ",
+        "A"
+      ],
+      [
+        "D",
+        "E",
+        "E",
+        "E",
+        "A"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "28wrboog",
+    "groupId": "7gw3beol",
+    "number": 9,
+    "title": "ಶುದ್ಧ ಶುದ್ಧ ಶುದ್ಧ",
+    "key": "Ab",
+    "lines": [
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೊಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಳ್ಳು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೃ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಣ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ್ರ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಓ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯೈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab"
+      ],
+      [
+        "Db",
+        "Db",
+        "Db",
+        "Db",
+        "Ab",
+        "Ab"
+      ],
+      [
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Abᴴ",
+        "Ebᴴ"
+      ],
+      [
+        "Ab",
+        "Eb",
+        "Eb",
+        "Dbᴴ",
+        "Bb",
+        "Ab"
+      ],
+      [
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab"
+      ],
+      [
+        "Dbᴴ",
+        "Db",
+        "Db",
+        "Db",
+        "Ab",
+        "Ab"
+      ],
+      [
+        "Abᴴ",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Dbᴴ",
+        "Ab"
+      ],
+      [
+        "Db",
+        "Eb",
+        "Eb",
+        "Eb",
+        "Ab"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "eae0u4rm",
+    "groupId": "7gw3beol",
+    "number": 9,
+    "title": "ಶುದ್ಧ ಶುದ್ಧ ಶುದ್ಧ",
+    "key": "B",
+    "lines": [
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೊಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಳ್ಳು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೃ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಣ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ್ರ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಓ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯೈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "B",
+        "B",
+        "B",
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "E",
+        "E",
+        "E",
+        "E",
+        "B",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "B",
+        "B",
+        "Bᴴ",
+        "F#ᴴ"
+      ],
+      [
+        "B",
+        "F#",
+        "F#",
+        "Eᴴ",
+        "C#",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "B",
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "Eᴴ",
+        "E",
+        "E",
+        "E",
+        "B",
+        "B"
+      ],
+      [
+        "Bᴴ",
+        "B",
+        "B",
+        "B",
+        "Eᴴ",
+        "B"
+      ],
+      [
+        "E",
+        "F#",
+        "F#",
+        "F#",
+        "B"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "yzk1m3jk",
+    "groupId": "7gw3beol",
+    "number": 9,
+    "title": "ಶುದ್ಧ ಶುದ್ಧ ಶುದ್ಧ",
+    "key": "Bb",
+    "lines": [
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೊಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಳ್ಳು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೃ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಣ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ್ರ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಓ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯೈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Bb",
+        "Bb",
+        "Bb",
+        "Bb",
+        "Bb",
+        "Bb"
+      ],
+      [
+        "Eb",
+        "Eb",
+        "Eb",
+        "Eb",
+        "Bb",
+        "Bb"
+      ],
+      [
+        "Bb",
+        "Bb",
+        "Bb",
+        "Bb",
+        "Bbᴴ",
+        "Fᴴ"
+      ],
+      [
+        "Bb",
+        "F",
+        "F",
+        "Ebᴴ",
+        "C",
+        "Bb"
+      ],
+      [
+        "Bb",
+        "Bb",
+        "Bb",
+        "Bb",
+        "Bb",
+        "Bb"
+      ],
+      [
+        "Ebᴴ",
+        "Eb",
+        "Eb",
+        "Eb",
+        "Bb",
+        "Bb"
+      ],
+      [
+        "Bbᴴ",
+        "Bb",
+        "Bb",
+        "Bb",
+        "Ebᴴ",
+        "Bb"
+      ],
+      [
+        "Eb",
+        "F",
+        "F",
+        "F",
+        "Bb"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "7hn0wly8",
+    "groupId": "7gw3beol",
+    "number": 9,
+    "title": "ಶುದ್ಧ ಶುದ್ಧ ಶುದ್ಧ",
+    "key": "C",
+    "lines": [
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೊಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಳ್ಳು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೃ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಣ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ್ರ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಓ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯೈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C"
+      ],
+      [
+        "F",
+        "F",
+        "F",
+        "F",
+        "C",
+        "C"
+      ],
+      [
+        "C",
+        "C",
+        "C",
+        "C",
+        "Cᴴ",
+        "Gᴴ"
+      ],
+      [
+        "C",
+        "G",
+        "G",
+        "Fᴴ",
+        "D",
+        "C"
+      ],
+      [
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C"
+      ],
+      [
+        "Fᴴ",
+        "F",
+        "F",
+        "F",
+        "C",
+        "C"
+      ],
+      [
+        "Cᴴ",
+        "C",
+        "C",
+        "C",
+        "Fᴴ",
+        "C"
+      ],
+      [
+        "F",
+        "G",
+        "G",
+        "G",
+        "C"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "s5b2anh9",
+    "groupId": "7gw3beol",
+    "number": 9,
+    "title": "ಶುದ್ಧ ಶುದ್ಧ ಶುದ್ಧ",
+    "key": "D",
+    "lines": [
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೊಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಳ್ಳು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೃ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಣ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ್ರ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಓ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯೈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      [
+        "G",
+        "G",
+        "G",
+        "G",
+        "D",
+        "D"
+      ],
+      [
+        "D",
+        "D",
+        "D",
+        "D",
+        "Dᴴ",
+        "Aᴴ"
+      ],
+      [
+        "D",
+        "A",
+        "A",
+        "Gᴴ",
+        "E",
+        "D"
+      ],
+      [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      [
+        "Gᴴ",
+        "G",
+        "G",
+        "G",
+        "D",
+        "D"
+      ],
+      [
+        "Dᴴ",
+        "D",
+        "D",
+        "D",
+        "Gᴴ",
+        "D"
+      ],
+      [
+        "G",
+        "A",
+        "A",
+        "A",
+        "D"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "ady99wvm",
+    "groupId": "7gw3beol",
+    "number": 9,
+    "title": "ಶುದ್ಧ ಶುದ್ಧ ಶುದ್ಧ",
+    "key": "Db",
+    "lines": [
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೊಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಳ್ಳು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೃ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಣ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ್ರ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಓ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯೈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Db",
+        "Db",
+        "Db",
+        "Db",
+        "Db",
+        "Db"
+      ],
+      [
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Db",
+        "Db"
+      ],
+      [
+        "Db",
+        "Db",
+        "Db",
+        "Db",
+        "Dbᴴ",
+        "Abᴴ"
+      ],
+      [
+        "Db",
+        "Ab",
+        "Ab",
+        "Gbᴴ",
+        "Eb",
+        "Db"
+      ],
+      [
+        "Db",
+        "Db",
+        "Db",
+        "Db",
+        "Db",
+        "Db"
+      ],
+      [
+        "Gbᴴ",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Db",
+        "Db"
+      ],
+      [
+        "Dbᴴ",
+        "Db",
+        "Db",
+        "Db",
+        "Gbᴴ",
+        "Db"
+      ],
+      [
+        "Gb",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Db"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "u2zspdeh",
+    "groupId": "7gw3beol",
+    "number": 9,
+    "title": "ಶುದ್ಧ ಶುದ್ಧ ಶುದ್ಧ",
+    "key": "E",
+    "lines": [
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೊಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಳ್ಳು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೃ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಣ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ್ರ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಓ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯೈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E"
+      ],
+      [
+        "A",
+        "A",
+        "A",
+        "A",
+        "E",
+        "E"
+      ],
+      [
+        "E",
+        "E",
+        "E",
+        "E",
+        "Eᴴ",
+        "Bᴴ"
+      ],
+      [
+        "E",
+        "B",
+        "B",
+        "Aᴴ",
+        "F#",
+        "E"
+      ],
+      [
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E"
+      ],
+      [
+        "Aᴴ",
+        "A",
+        "A",
+        "A",
+        "E",
+        "E"
+      ],
+      [
+        "Eᴴ",
+        "E",
+        "E",
+        "E",
+        "Aᴴ",
+        "E"
+      ],
+      [
+        "A",
+        "B",
+        "B",
+        "B",
+        "E"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "p0622hjb",
+    "groupId": "7gw3beol",
+    "number": 9,
+    "title": "ಶುದ್ಧ ಶುದ್ಧ ಶುದ್ಧ",
+    "key": "Eb",
+    "lines": [
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೊಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಳ್ಳು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೃ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಣ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ್ರ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಓ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯೈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Eb",
+        "Eb",
+        "Eb",
+        "Eb",
+        "Eb",
+        "Eb"
+      ],
+      [
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Eb",
+        "Eb"
+      ],
+      [
+        "Eb",
+        "Eb",
+        "Eb",
+        "Eb",
+        "Ebᴴ",
+        "Bbᴴ"
+      ],
+      [
+        "Eb",
+        "Bb",
+        "Bb",
+        "Abᴴ",
+        "F",
+        "Eb"
+      ],
+      [
+        "Eb",
+        "Eb",
+        "Eb",
+        "Eb",
+        "Eb",
+        "Eb"
+      ],
+      [
+        "Abᴴ",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Eb",
+        "Eb"
+      ],
+      [
+        "Ebᴴ",
+        "Eb",
+        "Eb",
+        "Eb",
+        "Abᴴ",
+        "Eb"
+      ],
+      [
+        "Ab",
+        "Bb",
+        "Bb",
+        "Bb",
+        "Eb"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "jhvdy65z",
+    "groupId": "7gw3beol",
+    "number": 9,
+    "title": "ಶುದ್ಧ ಶುದ್ಧ ಶುದ್ಧ",
+    "key": "F",
+    "lines": [
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೊಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಳ್ಳು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೃ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಣ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ್ರ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಓ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯೈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F"
+      ],
+      [
+        "Bb",
+        "Bb",
+        "Bb",
+        "Bb",
+        "F",
+        "F"
+      ],
+      [
+        "F",
+        "F",
+        "F",
+        "F",
+        "Fᴴ",
+        "Cᴴ"
+      ],
+      [
+        "F",
+        "C",
+        "C",
+        "Bbᴴ",
+        "G",
+        "F"
+      ],
+      [
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F"
+      ],
+      [
+        "Bbᴴ",
+        "Bb",
+        "Bb",
+        "Bb",
+        "F",
+        "F"
+      ],
+      [
+        "Fᴴ",
+        "F",
+        "F",
+        "F",
+        "Bbᴴ",
+        "F"
+      ],
+      [
+        "Bb",
+        "C",
+        "C",
+        "C",
+        "F"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "xcs57fog",
+    "groupId": "7gw3beol",
+    "number": 9,
+    "title": "ಶುದ್ಧ ಶುದ್ಧ ಶುದ್ಧ",
+    "key": "G",
+    "lines": [
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೊಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಳ್ಳು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೃ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಣ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ್ರ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಓ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯೈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G"
+      ],
+      [
+        "C",
+        "C",
+        "C",
+        "C",
+        "G",
+        "G"
+      ],
+      [
+        "G",
+        "G",
+        "G",
+        "G",
+        "Gᴴ",
+        "Dᴴ"
+      ],
+      [
+        "G",
+        "D",
+        "D",
+        "Cᴴ",
+        "A",
+        "G"
+      ],
+      [
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G"
+      ],
+      [
+        "Cᴴ",
+        "C",
+        "C",
+        "C",
+        "G",
+        "G"
+      ],
+      [
+        "Gᴴ",
+        "G",
+        "G",
+        "G",
+        "Cᴴ",
+        "G"
+      ],
+      [
+        "C",
+        "D",
+        "D",
+        "D",
+        "G"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "f4t78y7h",
+    "groupId": "7gw3beol",
+    "number": 9,
+    "title": "ಶುದ್ಧ ಶುದ್ಧ ಶುದ್ಧ",
+    "key": "Gb",
+    "lines": [
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ್ತ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೊಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೊ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಳ್ಳು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವೆ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಶು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಶು",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದ್ಧ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಕೃ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ್ಣ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ್ರ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಓ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ರ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯೈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ್ತು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನಿ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb"
+      ],
+      [
+        "Cb",
+        "Cb",
+        "Cb",
+        "Cb",
+        "Gb",
+        "Gb"
+      ],
+      [
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gbᴴ",
+        "Dbᴴ"
+      ],
+      [
+        "Gb",
+        "Db",
+        "Db",
+        "Cbᴴ",
+        "Ab",
+        "Gb"
+      ],
+      [
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb"
+      ],
+      [
+        "Cbᴴ",
+        "Cb",
+        "Cb",
+        "Cb",
+        "Gb",
+        "Gb"
+      ],
+      [
+        "Gbᴴ",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Cbᴴ",
+        "Gb"
+      ],
+      [
+        "Cb",
+        "Db",
+        "Db",
+        "Db",
+        "Gb"
+      ]
+    ],
+    "level": "Easy"
   }
 ]
