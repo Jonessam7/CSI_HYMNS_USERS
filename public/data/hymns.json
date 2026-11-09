@@ -13714,5 +13714,7673 @@
       ]
     ],
     "level": "Easy"
+  },
+  {
+    "id": "429ui2li",
+    "groupId": "72iv2p6p",
+    "number": 27,
+    "title": "ಎಲ್ಲರೂ ಕೂಡಿ ಹಾಡುವ",
+    "key": "A",
+    "lines": [
+      [
+        {
+          "syl": "ಎ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೂ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ್ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಇಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಭ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "D",
+        "D",
+        "A"
+      ],
+      [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      [
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "D",
+        "D",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "D",
+        "Eᴴ",
+        "Eᴴ",
+        "Aᴴ"
+      ],
+      [
+        "Aᴴ",
+        "Eᴴ",
+        "D",
+        "D",
+        "Eᴴ D",
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "D A",
+        "D",
+        "D",
+        "D A",
+        "D",
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "D",
+        "D",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "D",
+        "Eᴴ",
+        "Eᴴ",
+        "Aᴴ"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "rma2csaj",
+    "groupId": "72iv2p6p",
+    "number": 27,
+    "title": "ಎಲ್ಲರೂ ಕೂಡಿ ಹಾಡುವ",
+    "key": "Ab",
+    "lines": [
+      [
+        {
+          "syl": "ಎ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೂ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ್ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಇಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಭ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Db",
+        "Db",
+        "Ab"
+      ],
+      [
+        "Ab",
+        "Db",
+        "Ab",
+        "Db",
+        "Ab",
+        "Eb"
+      ],
+      [
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Db",
+        "Db",
+        "Ab"
+      ],
+      [
+        "Ab",
+        "Ab",
+        "Db",
+        "Ebᴴ",
+        "Ebᴴ",
+        "Abᴴ"
+      ],
+      [
+        "Abᴴ",
+        "Ebᴴ",
+        "Db",
+        "Db",
+        "Ebᴴ Db",
+        "Ab",
+        "Ab",
+        "Ab"
+      ],
+      [
+        "Db Ab",
+        "Db",
+        "Db",
+        "Db Ab",
+        "Db",
+        "Ab",
+        "Ab",
+        "Ab"
+      ],
+      [
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Db",
+        "Db",
+        "Ab"
+      ],
+      [
+        "Ab",
+        "Ab",
+        "Db",
+        "Ebᴴ",
+        "Ebᴴ",
+        "Abᴴ"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "04gfeg1x",
+    "groupId": "72iv2p6p",
+    "number": 27,
+    "title": "ಎಲ್ಲರೂ ಕೂಡಿ ಹಾಡುವ",
+    "key": "B",
+    "lines": [
+      [
+        {
+          "syl": "ಎ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೂ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ್ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಇಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಭ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "B",
+        "B",
+        "B",
+        "B",
+        "B",
+        "E",
+        "E",
+        "B"
+      ],
+      [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "F#"
+      ],
+      [
+        "B",
+        "B",
+        "B",
+        "B",
+        "B",
+        "E",
+        "E",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "E",
+        "F#ᴴ",
+        "F#ᴴ",
+        "Bᴴ"
+      ],
+      [
+        "Bᴴ",
+        "F#ᴴ",
+        "E",
+        "E",
+        "F#ᴴ E",
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "E B",
+        "E",
+        "E",
+        "E B",
+        "E",
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "B",
+        "B",
+        "B",
+        "E",
+        "E",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "E",
+        "F#ᴴ",
+        "F#ᴴ",
+        "Bᴴ"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "o0u06uaj",
+    "groupId": "72iv2p6p",
+    "number": 27,
+    "title": "ಎಲ್ಲರೂ ಕೂಡಿ ಹಾಡುವ",
+    "key": "Bb",
+    "lines": [
+      [
+        {
+          "syl": "ಎ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೂ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ್ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಇಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಭ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Bb",
+        "Bb",
+        "Bb",
+        "Bb",
+        "Bb",
+        "Eb",
+        "Eb",
+        "Bb"
+      ],
+      [
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      [
+        "Bb",
+        "Bb",
+        "Bb",
+        "Bb",
+        "Bb",
+        "Eb",
+        "Eb",
+        "Bb"
+      ],
+      [
+        "Bb",
+        "Bb",
+        "Eb",
+        "Fᴴ",
+        "Fᴴ",
+        "Bbᴴ"
+      ],
+      [
+        "Bbᴴ",
+        "Fᴴ",
+        "Eb",
+        "Eb",
+        "Fᴴ Eb",
+        "Bb",
+        "Bb",
+        "Bb"
+      ],
+      [
+        "Eb Bb",
+        "Eb",
+        "Eb",
+        "Eb Bb",
+        "Eb",
+        "Bb",
+        "Bb",
+        "Bb"
+      ],
+      [
+        "Bb",
+        "Bb",
+        "Bb",
+        "Bb",
+        "Bb",
+        "Eb",
+        "Eb",
+        "Bb"
+      ],
+      [
+        "Bb",
+        "Bb",
+        "Eb",
+        "Fᴴ",
+        "Fᴴ",
+        "Bbᴴ"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "k81rgd90",
+    "groupId": "72iv2p6p",
+    "number": 27,
+    "title": "ಎಲ್ಲರೂ ಕೂಡಿ ಹಾಡುವ",
+    "key": "C",
+    "lines": [
+      [
+        {
+          "syl": "ಎ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೂ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ್ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಇಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಭ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "F",
+        "F",
+        "C"
+      ],
+      [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "G"
+      ],
+      [
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "F",
+        "F",
+        "C"
+      ],
+      [
+        "C",
+        "C",
+        "F",
+        "Gᴴ",
+        "Gᴴ",
+        "Cᴴ"
+      ],
+      [
+        "Cᴴ",
+        "Gᴴ",
+        "F",
+        "F",
+        "Gᴴ F",
+        "C",
+        "C",
+        "C"
+      ],
+      [
+        "F C",
+        "F",
+        "F",
+        "F C",
+        "F",
+        "C",
+        "C",
+        "C"
+      ],
+      [
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "F",
+        "F",
+        "C"
+      ],
+      [
+        "C",
+        "C",
+        "F",
+        "Gᴴ",
+        "Gᴴ",
+        "Cᴴ"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "kqb955sy",
+    "groupId": "72iv2p6p",
+    "number": 27,
+    "title": "ಎಲ್ಲರೂ ಕೂಡಿ ಹಾಡುವ",
+    "key": "D",
+    "lines": [
+      [
+        {
+          "syl": "ಎ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೂ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ್ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಇಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಭ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "G",
+        "G",
+        "D"
+      ],
+      [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A"
+      ],
+      [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "G",
+        "G",
+        "D"
+      ],
+      [
+        "D",
+        "D",
+        "G",
+        "Aᴴ",
+        "Aᴴ",
+        "Dᴴ"
+      ],
+      [
+        "Dᴴ",
+        "Aᴴ",
+        "G",
+        "G",
+        "Aᴴ G",
+        "D",
+        "D",
+        "D"
+      ],
+      [
+        "G D",
+        "G",
+        "G",
+        "G D",
+        "G",
+        "D",
+        "D",
+        "D"
+      ],
+      [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "G",
+        "G",
+        "D"
+      ],
+      [
+        "D",
+        "D",
+        "G",
+        "Aᴴ",
+        "Aᴴ",
+        "Dᴴ"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "4wftld8h",
+    "groupId": "72iv2p6p",
+    "number": 27,
+    "title": "ಎಲ್ಲರೂ ಕೂಡಿ ಹಾಡುವ",
+    "key": "Db",
+    "lines": [
+      [
+        {
+          "syl": "ಎ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೂ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ್ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಇಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಭ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Db",
+        "Db",
+        "Db",
+        "Db",
+        "Db",
+        "Gb",
+        "Gb",
+        "Db"
+      ],
+      [
+        "Db",
+        "Gb",
+        "Db",
+        "Gb",
+        "Db",
+        "Ab"
+      ],
+      [
+        "Db",
+        "Db",
+        "Db",
+        "Db",
+        "Db",
+        "Gb",
+        "Gb",
+        "Db"
+      ],
+      [
+        "Db",
+        "Db",
+        "Gb",
+        "Abᴴ",
+        "Abᴴ",
+        "Dbᴴ"
+      ],
+      [
+        "Dbᴴ",
+        "Abᴴ",
+        "Gb",
+        "Gb",
+        "Abᴴ Gb",
+        "Db",
+        "Db",
+        "Db"
+      ],
+      [
+        "Gb Db",
+        "Gb",
+        "Gb",
+        "Gb Db",
+        "Gb",
+        "Db",
+        "Db",
+        "Db"
+      ],
+      [
+        "Db",
+        "Db",
+        "Db",
+        "Db",
+        "Db",
+        "Gb",
+        "Gb",
+        "Db"
+      ],
+      [
+        "Db",
+        "Db",
+        "Gb",
+        "Abᴴ",
+        "Abᴴ",
+        "Dbᴴ"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "vblten7z",
+    "groupId": "72iv2p6p",
+    "number": 27,
+    "title": "ಎಲ್ಲರೂ ಕೂಡಿ ಹಾಡುವ",
+    "key": "E",
+    "lines": [
+      [
+        {
+          "syl": "ಎ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೂ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ್ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಇಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಭ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "A",
+        "A",
+        "E"
+      ],
+      [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "B"
+      ],
+      [
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "A",
+        "A",
+        "E"
+      ],
+      [
+        "E",
+        "E",
+        "A",
+        "Bᴴ",
+        "Bᴴ",
+        "Eᴴ"
+      ],
+      [
+        "Eᴴ",
+        "Bᴴ",
+        "A",
+        "A",
+        "Bᴴ A",
+        "E",
+        "E",
+        "E"
+      ],
+      [
+        "A E",
+        "A",
+        "A",
+        "A E",
+        "A",
+        "E",
+        "E",
+        "E"
+      ],
+      [
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "A",
+        "A",
+        "E"
+      ],
+      [
+        "E",
+        "E",
+        "A",
+        "Bᴴ",
+        "Bᴴ",
+        "Eᴴ"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "r6n0ue72",
+    "groupId": "72iv2p6p",
+    "number": 27,
+    "title": "ಎಲ್ಲರೂ ಕೂಡಿ ಹಾಡುವ",
+    "key": "Eb",
+    "lines": [
+      [
+        {
+          "syl": "ಎ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೂ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ್ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಇಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಭ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Eb",
+        "Eb",
+        "Eb",
+        "Eb",
+        "Eb",
+        "Ab",
+        "Ab",
+        "Eb"
+      ],
+      [
+        "Eb",
+        "Ab",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bb"
+      ],
+      [
+        "Eb",
+        "Eb",
+        "Eb",
+        "Eb",
+        "Eb",
+        "Ab",
+        "Ab",
+        "Eb"
+      ],
+      [
+        "Eb",
+        "Eb",
+        "Ab",
+        "Bbᴴ",
+        "Bbᴴ",
+        "Ebᴴ"
+      ],
+      [
+        "Ebᴴ",
+        "Bbᴴ",
+        "Ab",
+        "Ab",
+        "Bbᴴ Ab",
+        "Eb",
+        "Eb",
+        "Eb"
+      ],
+      [
+        "Ab Eb",
+        "Ab",
+        "Ab",
+        "Ab Eb",
+        "Ab",
+        "Eb",
+        "Eb",
+        "Eb"
+      ],
+      [
+        "Eb",
+        "Eb",
+        "Eb",
+        "Eb",
+        "Eb",
+        "Ab",
+        "Ab",
+        "Eb"
+      ],
+      [
+        "Eb",
+        "Eb",
+        "Ab",
+        "Bbᴴ",
+        "Bbᴴ",
+        "Ebᴴ"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "5jk477wa",
+    "groupId": "72iv2p6p",
+    "number": 27,
+    "title": "ಎಲ್ಲರೂ ಕೂಡಿ ಹಾಡುವ",
+    "key": "F",
+    "lines": [
+      [
+        {
+          "syl": "ಎ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೂ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ್ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಇಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಭ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "Bb",
+        "Bb",
+        "F"
+      ],
+      [
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "C"
+      ],
+      [
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "Bb",
+        "Bb",
+        "F"
+      ],
+      [
+        "F",
+        "F",
+        "Bb",
+        "Cᴴ",
+        "Cᴴ",
+        "Fᴴ"
+      ],
+      [
+        "Fᴴ",
+        "Cᴴ",
+        "Bb",
+        "Bb",
+        "Cᴴ Bb",
+        "F",
+        "F",
+        "F"
+      ],
+      [
+        "Bb F",
+        "Bb",
+        "Bb",
+        "Bb F",
+        "Bb",
+        "F",
+        "F",
+        "F"
+      ],
+      [
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "Bb",
+        "Bb",
+        "F"
+      ],
+      [
+        "F",
+        "F",
+        "Bb",
+        "Cᴴ",
+        "Cᴴ",
+        "Fᴴ"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "dauj3905",
+    "groupId": "72iv2p6p",
+    "number": 27,
+    "title": "ಎಲ್ಲರೂ ಕೂಡಿ ಹಾಡುವ",
+    "key": "G",
+    "lines": [
+      [
+        {
+          "syl": "ಎ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೂ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ್ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಇಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಭ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "C",
+        "C",
+        "G"
+      ],
+      [
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D"
+      ],
+      [
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "C",
+        "C",
+        "G"
+      ],
+      [
+        "G",
+        "G",
+        "C",
+        "Dᴴ",
+        "Dᴴ",
+        "Gᴴ"
+      ],
+      [
+        "Gᴴ",
+        "Dᴴ",
+        "C",
+        "C",
+        "Dᴴ C",
+        "G",
+        "G",
+        "G"
+      ],
+      [
+        "C G",
+        "C",
+        "C",
+        "C G",
+        "C",
+        "G",
+        "G",
+        "G"
+      ],
+      [
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "C",
+        "C",
+        "G"
+      ],
+      [
+        "G",
+        "G",
+        "C",
+        "Dᴴ",
+        "Dᴴ",
+        "Gᴴ"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "0mzy4j7b",
+    "groupId": "72iv2p6p",
+    "number": 27,
+    "title": "ಎಲ್ಲರೂ ಕೂಡಿ ಹಾಡುವ",
+    "key": "Gb",
+    "lines": [
+      [
+        {
+          "syl": "ಎ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕೂ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಭೂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಹ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಡ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲ್ಲ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ನ್ನಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಇಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಬಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಭ್ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದಿಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ದೇ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪ್ರೀ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ತಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Cb",
+        "Cb",
+        "Gb"
+      ],
+      [
+        "Gb",
+        "Cb",
+        "Gb",
+        "Cb",
+        "Gb",
+        "Db"
+      ],
+      [
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Cb",
+        "Cb",
+        "Gb"
+      ],
+      [
+        "Gb",
+        "Gb",
+        "Cb",
+        "Dbᴴ",
+        "Dbᴴ",
+        "Gbᴴ"
+      ],
+      [
+        "Gbᴴ",
+        "Dbᴴ",
+        "Cb",
+        "Cb",
+        "Dbᴴ Cb",
+        "Gb",
+        "Gb",
+        "Gb"
+      ],
+      [
+        "Cb Gb",
+        "Cb",
+        "Cb",
+        "Cb Gb",
+        "Cb",
+        "Gb",
+        "Gb",
+        "Gb"
+      ],
+      [
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Cb",
+        "Cb",
+        "Gb"
+      ],
+      [
+        "Gb",
+        "Gb",
+        "Cb",
+        "Dbᴴ",
+        "Dbᴴ",
+        "Gbᴴ"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "8idi43od",
+    "groupId": "4ue0ocyr",
+    "number": 35,
+    "title": "ಈವರೆಗೆಮ್ಮ ದೇವರು",
+    "key": "A",
+    "lines": [
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೂ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ್ನು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "A",
+        "A",
+        "A",
+        "E",
+        "A",
+        "E",
+        "E",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "D",
+        "A",
+        "A",
+        "E",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A",
+        "E",
+        "A",
+        "E",
+        "E",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "D",
+        "A",
+        "A",
+        "E",
+        "A"
+      ],
+      [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      [
+        "A",
+        "A",
+        "E",
+        "A",
+        "A",
+        "A",
+        "E",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "D",
+        "A",
+        "A",
+        "E",
+        "A"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "7m9zcgma",
+    "groupId": "4ue0ocyr",
+    "number": 35,
+    "title": "ಈವರೆಗೆಮ್ಮ ದೇವರು",
+    "key": "Ab",
+    "lines": [
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೂ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ್ನು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Ab",
+        "Ab",
+        "Ab",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Eb",
+        "Ab"
+      ],
+      [
+        "Ab",
+        "Ab",
+        "Db",
+        "Ab",
+        "Ab",
+        "Eb",
+        "Ab"
+      ],
+      [
+        "Ab",
+        "Ab",
+        "Ab",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Eb",
+        "Ab"
+      ],
+      [
+        "Ab",
+        "Ab",
+        "Db",
+        "Ab",
+        "Ab",
+        "Eb",
+        "Ab"
+      ],
+      [
+        "Ab",
+        "Db",
+        "Ab",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Ab",
+        "Eb"
+      ],
+      [
+        "Ab",
+        "Ab",
+        "Eb",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Eb",
+        "Ab"
+      ],
+      [
+        "Ab",
+        "Ab",
+        "Db",
+        "Ab",
+        "Ab",
+        "Eb",
+        "Ab"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "gm5zefyc",
+    "groupId": "4ue0ocyr",
+    "number": 35,
+    "title": "ಈವರೆಗೆಮ್ಮ ದೇವರು",
+    "key": "B",
+    "lines": [
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೂ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ್ನು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "B",
+        "B",
+        "B",
+        "F#",
+        "B",
+        "F#",
+        "F#",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "E",
+        "B",
+        "B",
+        "F#",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "B",
+        "F#",
+        "B",
+        "F#",
+        "F#",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "E",
+        "B",
+        "B",
+        "F#",
+        "B"
+      ],
+      [
+        "B",
+        "E",
+        "B",
+        "F#",
+        "B",
+        "F#",
+        "B",
+        "F#"
+      ],
+      [
+        "B",
+        "B",
+        "F#",
+        "B",
+        "B",
+        "B",
+        "F#",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "E",
+        "B",
+        "B",
+        "F#",
+        "B"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "cuztfvv2",
+    "groupId": "4ue0ocyr",
+    "number": 35,
+    "title": "ಈವರೆಗೆಮ್ಮ ದೇವರು",
+    "key": "Bb",
+    "lines": [
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೂ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ್ನು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Bb",
+        "Bb",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "F",
+        "Bb"
+      ],
+      [
+        "Bb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Bb",
+        "F",
+        "Bb"
+      ],
+      [
+        "Bb",
+        "Bb",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "F",
+        "Bb"
+      ],
+      [
+        "Bb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Bb",
+        "F",
+        "Bb"
+      ],
+      [
+        "Bb",
+        "Eb",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      [
+        "Bb",
+        "Bb",
+        "F",
+        "Bb",
+        "Bb",
+        "Bb",
+        "F",
+        "Bb"
+      ],
+      [
+        "Bb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Bb",
+        "F",
+        "Bb"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "4dttjyrj",
+    "groupId": "4ue0ocyr",
+    "number": 35,
+    "title": "ಈವರೆಗೆಮ್ಮ ದೇವರು",
+    "key": "C",
+    "lines": [
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೂ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ್ನು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "C",
+        "C",
+        "C",
+        "G",
+        "C",
+        "G",
+        "G",
+        "C"
+      ],
+      [
+        "C",
+        "C",
+        "F",
+        "C",
+        "C",
+        "G",
+        "C"
+      ],
+      [
+        "C",
+        "C",
+        "C",
+        "G",
+        "C",
+        "G",
+        "G",
+        "C"
+      ],
+      [
+        "C",
+        "C",
+        "F",
+        "C",
+        "C",
+        "G",
+        "C"
+      ],
+      [
+        "C",
+        "F",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      [
+        "C",
+        "C",
+        "G",
+        "C",
+        "C",
+        "C",
+        "G",
+        "C"
+      ],
+      [
+        "C",
+        "C",
+        "F",
+        "C",
+        "C",
+        "G",
+        "C"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "26xmhoi7",
+    "groupId": "4ue0ocyr",
+    "number": 35,
+    "title": "ಈವರೆಗೆಮ್ಮ ದೇವರು",
+    "key": "D",
+    "lines": [
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೂ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ್ನು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "D",
+        "D",
+        "D",
+        "A",
+        "D",
+        "A",
+        "A",
+        "D"
+      ],
+      [
+        "D",
+        "D",
+        "G",
+        "D",
+        "D",
+        "A",
+        "D"
+      ],
+      [
+        "D",
+        "D",
+        "D",
+        "A",
+        "D",
+        "A",
+        "A",
+        "D"
+      ],
+      [
+        "D",
+        "D",
+        "G",
+        "D",
+        "D",
+        "A",
+        "D"
+      ],
+      [
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A"
+      ],
+      [
+        "D",
+        "D",
+        "A",
+        "D",
+        "D",
+        "D",
+        "A",
+        "D"
+      ],
+      [
+        "D",
+        "D",
+        "G",
+        "D",
+        "D",
+        "A",
+        "D"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "fhgm5keg",
+    "groupId": "4ue0ocyr",
+    "number": 35,
+    "title": "ಈವರೆಗೆಮ್ಮ ದೇವರು",
+    "key": "Db",
+    "lines": [
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೂ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ್ನು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Db",
+        "Db",
+        "Db",
+        "Ab",
+        "Db",
+        "Ab",
+        "Ab",
+        "Db"
+      ],
+      [
+        "Db",
+        "Db",
+        "Gb",
+        "Db",
+        "Db",
+        "Ab",
+        "Db"
+      ],
+      [
+        "Db",
+        "Db",
+        "Db",
+        "Ab",
+        "Db",
+        "Ab",
+        "Ab",
+        "Db"
+      ],
+      [
+        "Db",
+        "Db",
+        "Gb",
+        "Db",
+        "Db",
+        "Ab",
+        "Db"
+      ],
+      [
+        "Db",
+        "Gb",
+        "Db",
+        "Ab",
+        "Db",
+        "Ab",
+        "Db",
+        "Ab"
+      ],
+      [
+        "Db",
+        "Db",
+        "Ab",
+        "Db",
+        "Db",
+        "Db",
+        "Ab",
+        "Db"
+      ],
+      [
+        "Db",
+        "Db",
+        "Gb",
+        "Db",
+        "Db",
+        "Ab",
+        "Db"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "ihxjff6d",
+    "groupId": "4ue0ocyr",
+    "number": 35,
+    "title": "ಈವರೆಗೆಮ್ಮ ದೇವರು",
+    "key": "E",
+    "lines": [
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೂ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ್ನು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "E",
+        "E",
+        "E",
+        "B",
+        "E",
+        "B",
+        "B",
+        "E"
+      ],
+      [
+        "E",
+        "E",
+        "A",
+        "E",
+        "E",
+        "B",
+        "E"
+      ],
+      [
+        "E",
+        "E",
+        "E",
+        "B",
+        "E",
+        "B",
+        "B",
+        "E"
+      ],
+      [
+        "E",
+        "E",
+        "A",
+        "E",
+        "E",
+        "B",
+        "E"
+      ],
+      [
+        "E",
+        "A",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B"
+      ],
+      [
+        "E",
+        "E",
+        "B",
+        "E",
+        "E",
+        "E",
+        "B",
+        "E"
+      ],
+      [
+        "E",
+        "E",
+        "A",
+        "E",
+        "E",
+        "B",
+        "E"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "563srrta",
+    "groupId": "4ue0ocyr",
+    "number": 35,
+    "title": "ಈವರೆಗೆಮ್ಮ ದೇವರು",
+    "key": "Eb",
+    "lines": [
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೂ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ್ನು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Eb",
+        "Eb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Bb",
+        "Eb"
+      ],
+      [
+        "Eb",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Eb",
+        "Bb",
+        "Eb"
+      ],
+      [
+        "Eb",
+        "Eb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Bb",
+        "Eb"
+      ],
+      [
+        "Eb",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Eb",
+        "Bb",
+        "Eb"
+      ],
+      [
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      [
+        "Eb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Eb",
+        "Eb",
+        "Bb",
+        "Eb"
+      ],
+      [
+        "Eb",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Eb",
+        "Bb",
+        "Eb"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "ow22d0fm",
+    "groupId": "4ue0ocyr",
+    "number": 35,
+    "title": "ಈವರೆಗೆಮ್ಮ ದೇವರು",
+    "key": "F",
+    "lines": [
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೂ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ್ನು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "F",
+        "F",
+        "F",
+        "C",
+        "F",
+        "C",
+        "C",
+        "F"
+      ],
+      [
+        "F",
+        "F",
+        "Bb",
+        "F",
+        "F",
+        "C",
+        "F"
+      ],
+      [
+        "F",
+        "F",
+        "F",
+        "C",
+        "F",
+        "C",
+        "C",
+        "F"
+      ],
+      [
+        "F",
+        "F",
+        "Bb",
+        "F",
+        "F",
+        "C",
+        "F"
+      ],
+      [
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      [
+        "F",
+        "F",
+        "C",
+        "F",
+        "F",
+        "F",
+        "C",
+        "F"
+      ],
+      [
+        "F",
+        "F",
+        "Bb",
+        "F",
+        "F",
+        "C",
+        "F"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "8rbc5p1n",
+    "groupId": "4ue0ocyr",
+    "number": 35,
+    "title": "ಈವರೆಗೆಮ್ಮ ದೇವರು",
+    "key": "G",
+    "lines": [
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೂ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ್ನು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "G",
+        "G",
+        "G",
+        "D",
+        "G",
+        "D",
+        "D",
+        "G"
+      ],
+      [
+        "G",
+        "G",
+        "C",
+        "G",
+        "G",
+        "D",
+        "G"
+      ],
+      [
+        "G",
+        "G",
+        "G",
+        "D",
+        "G",
+        "D",
+        "D",
+        "G"
+      ],
+      [
+        "G",
+        "G",
+        "C",
+        "G",
+        "G",
+        "D",
+        "G"
+      ],
+      [
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      [
+        "G",
+        "G",
+        "D",
+        "G",
+        "G",
+        "G",
+        "D",
+        "G"
+      ],
+      [
+        "G",
+        "G",
+        "C",
+        "G",
+        "G",
+        "D",
+        "G"
+      ]
+    ],
+    "level": "Easy"
+  },
+  {
+    "id": "7swautbu",
+    "groupId": "4ue0ocyr",
+    "number": 35,
+    "title": "ಈವರೆಗೆಮ್ಮ ದೇವರು",
+    "key": "Gb",
+    "lines": [
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದೇ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರು",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಹಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಯಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ವಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲೂ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ನ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ್ನು",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಕಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ದಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಈ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ವ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಗೆ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮ್ಮ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಸಂ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ತೋ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಷ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಯ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಪಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಲಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಸಿ",
+          "wordBreak": false
+        }
+      ],
+      [
+        {
+          "syl": "ಉ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ಧಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ರ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ಮಾ",
+          "wordBreak": true
+        },
+        {
+          "syl": "ಡಿ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ದ್ದಾ",
+          "wordBreak": false
+        },
+        {
+          "syl": "ನೇ",
+          "wordBreak": false
+        }
+      ]
+    ],
+    "chords": [
+      [
+        "Gb",
+        "Gb",
+        "Gb",
+        "Db",
+        "Gb",
+        "Db",
+        "Db",
+        "Gb"
+      ],
+      [
+        "Gb",
+        "Gb",
+        "Cb",
+        "Gb",
+        "Gb",
+        "Db",
+        "Gb"
+      ],
+      [
+        "Gb",
+        "Gb",
+        "Gb",
+        "Db",
+        "Gb",
+        "Db",
+        "Db",
+        "Gb"
+      ],
+      [
+        "Gb",
+        "Gb",
+        "Cb",
+        "Gb",
+        "Gb",
+        "Db",
+        "Gb"
+      ],
+      [
+        "Gb",
+        "Cb",
+        "Gb",
+        "Db",
+        "Gb",
+        "Db",
+        "Gb",
+        "Db"
+      ],
+      [
+        "Gb",
+        "Gb",
+        "Db",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Db",
+        "Gb"
+      ],
+      [
+        "Gb",
+        "Gb",
+        "Cb",
+        "Gb",
+        "Gb",
+        "Db",
+        "Gb"
+      ]
+    ],
+    "level": "Easy"
   }
 ]
